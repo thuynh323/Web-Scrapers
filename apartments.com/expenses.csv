@@ -1,0 +1,3529 @@
+apt_id,expense_type,expense_name,expense_amount
+8507ch0,Recurring,Cat Rent,$20
+8507ch0,Recurring,Dog Rent,$20
+8507ch0,One-Time,Cat Fee,$300
+8507ch0,One-Time,Dog Fee,$300
+7x1j2ly,One-Time,Admin Fee,$150
+7x1j2ly,One-Time,Application Fee,$50
+3zjvf3d,One-Time,Application Fee,$99
+vfz0lqd,Recurring,Cat Rent,$20
+vfz0lqd,Recurring,Dog Rent,$20
+vfz0lqd,One-Time,Admin Fee,$150
+vfz0lqd,One-Time,Application Fee,$50
+vfz0lqd,One-Time,Cat Fee,$400
+vfz0lqd,One-Time,Dog Fee,$400
+fffnhjs,Recurring,Cat Rent,$20
+fffnhjs,Recurring,Dog Rent,$20
+fffnhjs,One-Time,Admin Fee,$250
+fffnhjs,One-Time,Application Fee,$75
+fffnhjs,One-Time,Cat Fee,$350
+fffnhjs,One-Time,Dog Fee,$350
+9teved6,Recurring,Assigned Garage Parking,$50
+9teved6,Recurring,Cat Rent,$25
+9teved6,Recurring,Dog Rent,$25
+9teved6,One-Time,Admin Fee,$200
+9teved6,One-Time,Application Fee,$90
+9teved6,One-Time,Cat Fee,$400
+9teved6,One-Time,Dog Fee,$400
+cd80n3f,One-Time,Admin Fee,$250
+cd80n3f,One-Time,Application Fee,$85
+sr9hlv4,One-Time,Admin Fee,$100
+sr9hlv4,One-Time,Application Fee,$35
+sr9hlv4,Utilities Included,Trash Removal,Included
+0g6gh01,Recurring,Storage Fee,$45
+0g6gh01,Recurring,Cat Rent,$20
+0g6gh01,Recurring,Dog Rent,$20
+0g6gh01,One-Time,Admin Fee,$200
+0g6gh01,One-Time,Application Fee,$95
+t1qzpt8,One-Time,Admin Fee,$200
+t1qzpt8,One-Time,Application Fee,$65
+t1qzpt8,One-Time,Cat Fee,$400
+t1qzpt8,One-Time,Dog Fee,$400
+g41tntx,Recurring,Cat Rent,$25
+g41tntx,Recurring,Dog Rent,$25
+g41tntx,One-Time,Admin Fee,$150
+g41tntx,One-Time,Application Fee,$75
+g41tntx,One-Time,Cat Fee,$250
+g41tntx,One-Time,Dog Fee,$250
+pf4mgzt,Recurring,Cat Rent,$20
+pf4mgzt,Recurring,Dog Rent,$20
+pf4mgzt,One-Time,Admin Fee,$150
+pf4mgzt,One-Time,Application Fee,$50
+pf4mgzt,One-Time,Cat Fee,$400
+pf4mgzt,One-Time,Dog Fee,$400
+dc3kbnh,Recurring,Cat Rent,$25
+dc3kbnh,Recurring,Dog Rent,$25
+dc3kbnh,One-Time,Admin Fee,$300
+dc3kbnh,One-Time,Application Fee,$100
+dc3kbnh,One-Time,Cat Fee,$500
+dc3kbnh,One-Time,Dog Fee,$500
+347xfmf,One-Time,Admin Fee,$150
+347xfmf,One-Time,Application Fee,$75
+ctx07ze,One-Time,Admin Fee,$150
+ctx07ze,One-Time,Application Fee,$85
+ypq4vxs,One-Time,Admin Fee,$150
+ypq4vxs,One-Time,Application Fee,$50
+ymf5lbr,One-Time,Admin Fee,$150
+ymf5lbr,One-Time,Application Fee,$50
+hty7q63,Recurring,Cat Rent,$20
+hty7q63,Recurring,Dog Rent,$20
+hty7q63,One-Time,Admin Fee,$125
+hty7q63,One-Time,Application Fee,$85
+hty7q63,One-Time,Cat Fee,$500
+hty7q63,One-Time,Dog Fee,$500
+xh6gjyq,Recurring,Cat Rent,$15
+xh6gjyq,Recurring,Dog Rent,$15
+xh6gjyq,One-Time,Admin Fee,$300
+xh6gjyq,One-Time,Application Fee,$89
+xh6gjyq,One-Time,Cat Fee,$300
+xh6gjyq,One-Time,Dog Fee,$300
+6602b5r,One-Time,Admin Fee,$150
+6602b5r,One-Time,Application Fee,$75
+fnlrrzs,One-Time,Admin Fee,$225
+fnlrrzs,One-Time,Application Fee,$85
+x6q2p0q,Recurring,Storage Fee,$75
+x6q2p0q,Recurring,Unassigned Garage Parking,$50
+x6q2p0q,Recurring,Assigned Other Parking,$100
+x6q2p0q,One-Time,Admin Fee,$250
+x6q2p0q,One-Time,Application Fee,$100
+lf299ze,Recurring,Cat Rent,$20
+lf299ze,Recurring,Dog Rent,$20
+lf299ze,One-Time,Admin Fee,$250
+lf299ze,One-Time,Application Fee,$75
+lf299ze,One-Time,Cat Fee,$600
+lf299ze,One-Time,Dog Fee,$600
+4pjtj1h,Recurring,Storage Fee,$60
+4pjtj1h,Recurring,Cat Rent,$10
+4pjtj1h,Recurring,Dog Rent,$10
+4pjtj1h,One-Time,Admin Fee,$300
+4pjtj1h,One-Time,Application Fee,$89
+4pjtj1h,One-Time,Cat Fee,$350
+4pjtj1h,One-Time,Dog Fee,$350
+zwcyjly,Recurring,Cat Rent,$15
+zwcyjly,Recurring,Dog Rent,$15
+zwcyjly,One-Time,Admin Fee,$150
+zwcyjly,One-Time,Application Fee,$75
+zwcyjly,One-Time,Cat Fee,$300
+zwcyjly,One-Time,Dog Fee,$300
+bp1p51b,Recurring,Assigned Other Parking,$50
+bp1p51b,Recurring,Cat Rent,$20
+bp1p51b,Recurring,Dog Rent,$20
+bp1p51b,One-Time,Admin Fee,$200
+bp1p51b,One-Time,Application Fee,$99
+bp1p51b,One-Time,Cat Fee,$500
+bp1p51b,One-Time,Cat Deposit,$50
+bp1p51b,One-Time,Dog Fee,$500
+bp1p51b,One-Time,Dog Deposit,$50
+d4t27el,One-Time,Admin Fee,$200
+d4t27el,One-Time,Application Fee,$100
+l4sx76d,One-Time,Admin Fee,$150
+l4sx76d,One-Time,Application Fee,$75
+j4gzqe4,Recurring,Cat Rent,$15
+j4gzqe4,Recurring,Dog Rent,$15
+j4gzqe4,One-Time,Admin Fee,$225
+j4gzqe4,One-Time,Application Fee,$100
+j4gzqe4,One-Time,Cat Deposit,$300
+j4gzqe4,One-Time,Dog Deposit,$300
+3qh4j7f,Recurring,Storage Fee,$50
+3qh4j7f,Recurring,Assigned Garage Parking,$50
+3qh4j7f,Recurring,Assigned Other Parking,$125
+3qh4j7f,Recurring,Cat Rent,$20
+3qh4j7f,Recurring,Dog Rent,$20
+3qh4j7f,One-Time,Admin Fee,$250
+3qh4j7f,One-Time,Application Fee,$75
+3qh4j7f,One-Time,Cat Fee,$300
+3qh4j7f,One-Time,Cat Deposit,$500
+3qh4j7f,One-Time,Dog Fee,$500
+3qh4j7f,One-Time,Dog Deposit,$500
+74scz3y,Recurring,Unassigned Surface Lot Parking,$35
+74scz3y,Recurring,Unassigned Covered Parking,$50
+74scz3y,Recurring,Cat Rent,$15
+74scz3y,Recurring,Dog Rent,$15
+74scz3y,One-Time,Admin Fee,$200
+74scz3y,One-Time,Application Fee,$75
+74scz3y,One-Time,Cat Fee,$300
+74scz3y,One-Time,Dog Fee,$300
+1kws8y6,Recurring,Cat Rent,$30
+1kws8y6,Recurring,Dog Rent,$30
+1kws8y6,One-Time,Admin Fee,$100
+1kws8y6,One-Time,Application Fee,$75
+1kws8y6,One-Time,Cat Fee,$300
+1kws8y6,One-Time,Dog Fee,$300
+85ybms2,Recurring,Cat Rent,$25
+85ybms2,Recurring,Dog Rent,$25
+85ybms2,One-Time,Admin Fee,$175
+85ybms2,One-Time,Application Fee,$75
+85ybms2,One-Time,Cat Fee,$400
+85ybms2,One-Time,Dog Fee,$400
+nk81ebp,Recurring,Assigned Garage Parking,$75 - 100
+nk81ebp,Recurring,Cat Rent,$20
+nk81ebp,Recurring,Dog Rent,$20
+nk81ebp,One-Time,Admin Fee,$175
+nk81ebp,One-Time,Application Fee,$75
+nk81ebp,One-Time,Cat Fee,$300 - 400
+nk81ebp,One-Time,Dog Fee,$300 - 400
+x52yhhm,Recurring,Cat Rent,$20
+x52yhhm,Recurring,Dog Rent,$20
+x52yhhm,One-Time,Admin Fee,$199
+x52yhhm,One-Time,Application Fee,$75
+x52yhhm,One-Time,Cat Fee,$350
+x52yhhm,One-Time,Dog Fee,$350
+yhkyhds,Recurring,Cat Rent,$20
+yhkyhds,Recurring,Dog Rent,$20
+yhkyhds,One-Time,Admin Fee,$175
+yhkyhds,One-Time,Application Fee,$75
+yhkyhds,One-Time,Cat Fee,$400 - 800
+yhkyhds,One-Time,Dog Fee,$400 - 800
+seeq8d6,Recurring,Cat Rent,$20
+seeq8d6,Recurring,Dog Rent,$20
+seeq8d6,One-Time,Admin Fee,$100
+seeq8d6,One-Time,Application Fee,$50
+seeq8d6,One-Time,Cat Fee,$350 - 700
+seeq8d6,One-Time,Dog Fee,$350 - 700
+6l8ljht,Recurring,Cat Rent,$20
+6l8ljht,Recurring,Dog Rent,$20
+6l8ljht,One-Time,Admin Fee,$250
+6l8ljht,One-Time,Application Fee,$100
+6l8ljht,One-Time,Cat Fee,$300
+6l8ljht,One-Time,Dog Fee,$300
+09tx720,Recurring,Cat Rent,$20
+09tx720,Recurring,Dog Rent,$20
+09tx720,One-Time,Admin Fee,$200
+09tx720,One-Time,Application Fee,$85
+09tx720,One-Time,Cat Fee,$700
+09tx720,One-Time,Dog Fee,$700
+cptt20e,Recurring,Cat Rent,$20
+cptt20e,Recurring,Dog Rent,$20
+cptt20e,One-Time,Admin Fee,$200
+cptt20e,One-Time,Application Fee,$100
+cptt20e,One-Time,Cat Fee,$450 - 900
+cptt20e,One-Time,Dog Fee,$450 - 900
+c8r5q8g,Recurring,Cat Rent,$20
+c8r5q8g,Recurring,Dog Rent,$20
+c8r5q8g,One-Time,Cat Fee,$400 - 800
+c8r5q8g,One-Time,Dog Fee,$400 - 800
+07g5143,Recurring,Storage Fee,$35
+07g5143,One-Time,Admin Fee,$200
+07g5143,One-Time,Application Fee,$75
+07g5143,One-Time,Cat Fee,$400
+07g5143,One-Time,Dog Fee,$400
+mg90m2j,Recurring,Storage Fee,$75
+mg90m2j,One-Time,Admin Fee,$350
+mg90m2j,One-Time,Application Fee,$85
+66c2xgv,One-Time,Admin Fee,$150
+66c2xgv,One-Time,Application Fee,$50
+vpxkx9g,Recurring,Unassigned Garage Parking,$50
+vpxkx9g,Recurring,Cat Rent,$15
+vpxkx9g,Recurring,Dog Rent,$15
+vpxkx9g,One-Time,Admin Fee,$200
+vpxkx9g,One-Time,Application Fee,$75
+vpxkx9g,One-Time,Cat Fee,$250
+vpxkx9g,One-Time,Dog Fee,$250
+png0efr,Recurring,Storage Fee,$50
+png0efr,Recurring,Unassigned Garage Parking,$30
+png0efr,One-Time,Admin Fee,$250
+png0efr,One-Time,Application Fee,$99
+png0efr,One-Time,Cat Deposit,$500
+png0efr,One-Time,Dog Deposit,$500
+ffqltfv,Recurring,Storage Fee,$30
+ffqltfv,Recurring,Assigned Covered Parking,$25
+ffqltfv,One-Time,Admin Fee,$150
+ffqltfv,One-Time,Application Fee,$75
+ffqltfv,Utilities Included,Trash Removal,Included
+15qb6q4,Recurring,Assigned Garage Parking,$125
+15qb6q4,One-Time,Admin Fee,$100
+15qb6q4,One-Time,Application Fee,$60
+kc0ttlc,One-Time,Admin Fee,$300
+kc0ttlc,One-Time,Application Fee,$80
+kc0ttlc,One-Time,Cat Fee,$400
+kc0ttlc,One-Time,Dog Fee,$500
+kc0ttlc,Utilities Included,"Water, Trash Removal",Included
+htj3033,Recurring,Assigned Garage Parking,$150
+htj3033,Recurring,Cat Rent,$15
+htj3033,Recurring,Dog Rent,$15
+htj3033,One-Time,Admin Fee,$99
+htj3033,One-Time,Application Fee,$48
+htj3033,One-Time,Cat Fee,$350
+htj3033,One-Time,Dog Fee,$350
+k9kzqq9,One-Time,Admin Fee,$300
+k9kzqq9,One-Time,Application Fee,$50
+k9kzqq9,One-Time,Cat Fee,$300
+k9kzqq9,One-Time,Dog Fee,$300
+3yb3wxf,Recurring,Cat Rent,$25
+3yb3wxf,Recurring,Dog Rent,$25
+3yb3wxf,One-Time,Admin Fee,$100
+3yb3wxf,One-Time,Application Fee,$50
+3yb3wxf,One-Time,Cat Fee,$300
+3yb3wxf,One-Time,Dog Fee,$300
+r4k5452,Recurring,Unassigned Surface Lot Parking,$45
+r4k5452,One-Time,Admin Fee,$200
+r4k5452,One-Time,Application Fee,$75
+r4k5452,One-Time,Cat Fee,$400
+r4k5452,One-Time,Dog Fee,$400
+wwxh5mh,One-Time,Admin Fee,$200
+wwxh5mh,One-Time,Application Fee,$50
+wwxh5mh,One-Time,Cat Fee,$300
+wwxh5mh,One-Time,Dog Fee,$300
+p1fm0xv,One-Time,Application Fee,$75
+hhx38z2,Recurring,Storage Fee,$50
+hhx38z2,Recurring,Unassigned Covered Parking,$125
+hhx38z2,Recurring,Cat Rent,$20
+hhx38z2,Recurring,Dog Rent,$20
+hhx38z2,One-Time,Admin Fee,$150
+hhx38z2,One-Time,Application Fee,$75
+hhx38z2,One-Time,Cat Fee,$300
+hhx38z2,One-Time,Dog Fee,$300
+vxhmtpd,Recurring,Cat Rent,$25
+vxhmtpd,Recurring,Dog Rent,$25
+vxhmtpd,One-Time,Admin Fee,$400
+vxhmtpd,One-Time,Application Fee,$50
+vxhmtpd,One-Time,Cat Fee,$250
+vxhmtpd,One-Time,Dog Fee,$250
+vxhmtpd,Utilities Included,Trash Removal,Included
+mfewcpl,Recurring,Storage Fee,$35
+mfewcpl,Recurring,Assigned Garage Parking,$135
+mfewcpl,One-Time,Admin Fee,$200
+mfewcpl,One-Time,Application Fee,$50
+wvshvbl,One-Time,Admin Fee,$100
+wvshvbl,One-Time,Application Fee,$60
+zetdrxz,Recurring,Assigned Surface Lot Parking,$18
+zetdrxz,Recurring,Assigned Other Parking,$20
+zetdrxz,Recurring,Cat Rent,$35
+zetdrxz,Recurring,Dog Rent,$35
+zetdrxz,One-Time,Admin Fee,$200
+zetdrxz,One-Time,Application Fee,$60
+zetdrxz,One-Time,Cat Fee,$300
+zetdrxz,One-Time,Dog Fee,$300
+088hwk0,Recurring,Storage Fee,$50
+088hwk0,Recurring,Unassigned Garage Parking,$150
+088hwk0,One-Time,Admin Fee,$250
+088hwk0,One-Time,Application Fee,$85
+q0yjynz,Recurring,Assigned Garage Parking,$75
+q0yjynz,One-Time,Admin Fee,$250
+q0yjynz,One-Time,Application Fee,$85
+y61l8gs,Recurring,Storage Fee,$35
+y61l8gs,One-Time,Admin Fee,$150
+y61l8gs,One-Time,Application Fee,$50
+y61l8gs,One-Time,Cat Fee,$500
+y61l8gs,One-Time,Dog Fee,$500
+s5kwst7,One-Time,Admin Fee,$250
+s5kwst7,One-Time,Application Fee,$85
+6k4qe8v,One-Time,Admin Fee,$250
+6k4qe8v,One-Time,Application Fee,$85
+7t588bx,Recurring,Assigned Garage Parking,$25
+7t588bx,One-Time,Admin Fee,$250
+7t588bx,One-Time,Application Fee,$85
+7rglgyy,Recurring,Storage Fee,$50
+7rglgyy,Recurring,Cat Rent,$10
+7rglgyy,Recurring,Dog Rent,$10
+7rglgyy,One-Time,Admin Fee,$310
+7rglgyy,One-Time,Application Fee,$85
+7rglgyy,One-Time,Cat Fee,$500
+7rglgyy,One-Time,Dog Fee,$500
+ctd3eyg,Recurring,Cat Rent,$10
+ctd3eyg,Recurring,Dog Rent,$10
+ctd3eyg,One-Time,Admin Fee,$100
+ctd3eyg,One-Time,Application Fee,$50
+ctd3eyg,One-Time,Cat Fee,$300
+ctd3eyg,One-Time,Dog Fee,$300
+h9f0x60,Recurring,Assigned Garage Parking,$100
+h9f0x60,One-Time,Admin Fee,$150
+h9f0x60,One-Time,Application Fee,$50
+h9f0x60,One-Time,Cat Fee,$300
+h9f0x60,One-Time,Dog Fee,$300
+37xd7hg,One-Time,Admin Fee,$150
+37xd7hg,One-Time,Application Fee,$80
+gcxt9dy,One-Time,Admin Fee,$300
+gcxt9dy,One-Time,Application Fee,$90
+gcxt9dy,Utilities Included,"Gas, Water, Trash Removal, Sewer",Included
+endy4wp,Recurring,Assigned Garage Parking,$150
+endy4wp,Recurring,Cat Rent,$15
+endy4wp,Recurring,Dog Rent,$15
+endy4wp,One-Time,Admin Fee,$250
+endy4wp,One-Time,Application Fee,$50
+endy4wp,One-Time,Cat Fee,$350
+endy4wp,One-Time,Dog Fee,$350
+endy4wp,Utilities Included,Trash Removal,Included
+ezvc8wp,Recurring,Cat Rent,$15
+ezvc8wp,Recurring,Dog Rent,$15
+ezvc8wp,One-Time,Admin Fee,$100
+ezvc8wp,One-Time,Application Fee,$65
+ezvc8wp,One-Time,Cat Fee,$300
+ezvc8wp,One-Time,Dog Fee,$300
+qf05n3w,One-Time,Admin Fee,$150
+qf05n3w,One-Time,Application Fee,$55
+z9r25vw,One-Time,Admin Fee,$249
+z9r25vw,One-Time,Application Fee,$100
+8qx3wc0,Recurring,Assigned Garage Parking,$100
+8qx3wc0,Recurring,Assigned Other Parking,$25
+8qx3wc0,One-Time,Admin Fee,$200
+8qx3wc0,One-Time,Application Fee,$75
+338k6te,One-Time,Admin Fee,$200
+338k6te,One-Time,Application Fee,$100
+tlbp2nc,One-Time,Admin Fee,$200
+tlbp2nc,One-Time,Application Fee,$85
+tlbp2nc,One-Time,Cat Fee,$450
+tlbp2nc,One-Time,Dog Fee,$450
+t4fmk0c,One-Time,Admin Fee,$200
+t4fmk0c,One-Time,Application Fee,$70
+lr67nkf,One-Time,Admin Fee,$200
+lr67nkf,One-Time,Application Fee,$50
+h5wqxp1,One-Time,Admin Fee,$100
+h5wqxp1,One-Time,Application Fee,$50
+577sh8m,Recurring,Cat Rent,$20
+577sh8m,Recurring,Dog Rent,$20
+577sh8m,One-Time,Admin Fee,$100
+577sh8m,One-Time,Application Fee,$49
+577sh8m,One-Time,Cat Fee,$300
+577sh8m,One-Time,Dog Fee,$300
+ljv7sdg,Recurring,Cat Rent,$20
+ljv7sdg,Recurring,Dog Rent,$20
+ljv7sdg,One-Time,Admin Fee,$195
+ljv7sdg,One-Time,Application Fee,$50
+ljv7sdg,One-Time,Cat Fee,$300
+ljv7sdg,One-Time,Dog Fee,$300
+qbprhfz,Recurring,Assigned Other Parking,$60
+qbprhfz,Recurring,Cat Rent,$20
+qbprhfz,Recurring,Dog Rent,$20
+qbprhfz,One-Time,Admin Fee,$200
+qbprhfz,One-Time,Application Fee,$100
+qbprhfz,One-Time,Cat Fee,$400
+qbprhfz,One-Time,Dog Fee,$400
+hfh7gf0,One-Time,Admin Fee,$150
+hfh7gf0,One-Time,Application Fee,$35
+4bgbgbj,Recurring,Storage Fee,$50
+4bgbgbj,Recurring,Assigned Covered Parking,$15
+4bgbgbj,One-Time,Admin Fee,$150
+4bgbgbj,One-Time,Application Fee,$75
+dwvbj3h,One-Time,Admin Fee,$145
+dwvbj3h,One-Time,Application Fee,$50
+md0lw8h,One-Time,Admin Fee,$300
+md0lw8h,One-Time,Application Fee,$50
+v6xbwnf,Recurring,Cat Rent,$15
+v6xbwnf,Recurring,Dog Rent,$15
+v6xbwnf,One-Time,Admin Fee,$150
+v6xbwnf,One-Time,Application Fee,$65
+v6xbwnf,One-Time,Cat Fee,$400
+v6xbwnf,One-Time,Dog Fee,$400
+6lxcqyt,One-Time,Admin Fee,$175
+6lxcqyt,One-Time,Application Fee,$50
+6l920kt,One-Time,Admin Fee,$125
+6l920kt,One-Time,Application Fee,$75
+qgbs2ex,Recurring,Storage Fee,$25
+qgbs2ex,Recurring,Assigned Garage Parking,$125
+qgbs2ex,One-Time,Admin Fee,$250
+qgbs2ex,One-Time,Application Fee,$85
+h2xet33,One-Time,Admin Fee,$250
+h2xet33,One-Time,Application Fee,$85
+b47p9p8,Recurring,Unassigned Garage Parking,$150
+b47p9p8,Recurring,Cat Rent,$25
+b47p9p8,Recurring,Dog Rent,$25
+b47p9p8,One-Time,Admin Fee,$250
+b47p9p8,One-Time,Application Fee,$100
+b47p9p8,One-Time,Cat Fee,$500
+b47p9p8,One-Time,Dog Fee,$500
+f02824v,Recurring,Storage Fee,$55
+f02824v,Recurring,Unassigned Garage Parking,$300
+f02824v,One-Time,Admin Fee,$250
+f02824v,One-Time,Application Fee,$85
+5wz2kcq,Recurring,Unassigned Garage Parking,$125
+5wz2kcq,Recurring,Cat Rent,$15
+5wz2kcq,Recurring,Dog Rent,$15
+5wz2kcq,One-Time,Admin Fee,$150
+5wz2kcq,One-Time,Application Fee,$75
+5wz2kcq,One-Time,Cat Fee,$300
+5wz2kcq,One-Time,Dog Fee,$300
+68ds0qv,One-Time,Application Fee,$50
+ry9ryr0,One-Time,Admin Fee,$150
+ry9ryr0,One-Time,Application Fee,$50
+s9268z7,Recurring,Cat Rent,$15
+s9268z7,Recurring,Dog Rent,$15
+s9268z7,One-Time,Admin Fee,$200
+s9268z7,One-Time,Application Fee,$75
+s9268z7,One-Time,Cat Fee,$500
+s9268z7,One-Time,Dog Fee,$500
+thm5n1c,Recurring,Cat Rent,$15
+thm5n1c,Recurring,Dog Rent,$15
+thm5n1c,One-Time,Admin Fee,$150
+thm5n1c,One-Time,Application Fee,$75
+thm5n1c,One-Time,Cat Fee,$250
+thm5n1c,One-Time,Dog Fee,$250
+7r1p1gz,One-Time,Admin Fee,$400
+7r1p1gz,One-Time,Application Fee,$100
+7r1p1gz,One-Time,Dog Fee,$500
+40dvhpl,One-Time,Application Fee,$50
+40dvhpl,One-Time,Cat Fee,$350
+40dvhpl,One-Time,Cat Deposit,$350
+40dvhpl,One-Time,Dog Fee,$350
+40dvhpl,One-Time,Dog Deposit,$350
+s5gwth5,One-Time,Admin Fee,$200
+s5gwth5,One-Time,Application Fee,$50
+g1fkldz,One-Time,Admin Fee,$300
+g1fkldz,One-Time,Application Fee,$104
+g1fkldz,One-Time,Cat Fee,$300
+g1fkldz,One-Time,Dog Fee,$400
+dtjm23h,Recurring,Assigned Covered Parking,$40
+dtjm23h,Recurring,Assigned Garage Parking,$110
+dtjm23h,Recurring,Cat Rent,$35
+dtjm23h,Recurring,Dog Rent,$35
+dtjm23h,One-Time,Admin Fee,$349
+dtjm23h,One-Time,Cat Fee,$400
+dtjm23h,One-Time,Dog Fee,$400
+cydgevf,Recurring,Cat Rent,$20
+cydgevf,Recurring,Dog Rent,$20
+cydgevf,One-Time,Amenity Fee,$25
+cydgevf,One-Time,Admin Fee,$149
+cydgevf,One-Time,Application Fee,$50
+cydgevf,One-Time,Cat Fee,$300
+cydgevf,One-Time,Cat Deposit,$100
+cydgevf,One-Time,Dog Fee,$300
+cydgevf,One-Time,Dog Deposit,$100
+fw5jryv,Recurring,Cat Rent,$20
+fw5jryv,Recurring,Dog Rent,$20
+fw5jryv,One-Time,Cat Fee,$400
+fw5jryv,One-Time,Cat Deposit,$100
+fw5jryv,One-Time,Dog Fee,$400
+fw5jryv,One-Time,Dog Deposit,$100
+6d53r4v,Recurring,Cat Rent,$25
+6d53r4v,Recurring,Dog Rent,$25
+6d53r4v,One-Time,Cat Fee,$300
+6d53r4v,One-Time,Cat Deposit,$100
+6d53r4v,One-Time,Dog Fee,$300
+6d53r4v,One-Time,Dog Deposit,$100
+6d53r4v,Utilities Included,"Water, Trash Removal, Sewer",Included
+4c2dhbj,Recurring,Cat Rent,$20
+4c2dhbj,Recurring,Dog Rent,$20
+4c2dhbj,One-Time,Other,$324
+4c2dhbj,One-Time,Cat Fee,$400
+4c2dhbj,One-Time,Cat Deposit,$200
+4c2dhbj,One-Time,Dog Fee,$400
+4c2dhbj,One-Time,Dog Deposit,$200
+fk5wnbs,Recurring,Cat Rent,$20
+fk5wnbs,Recurring,Dog Rent,$20
+fk5wnbs,One-Time,Admin Fee,$120
+fk5wnbs,One-Time,Application Fee,$75
+fk5wnbs,One-Time,Cat Fee,$300
+fk5wnbs,One-Time,Cat Deposit,$100
+fk5wnbs,One-Time,Dog Fee,$300
+fk5wnbs,One-Time,Dog Deposit,$100
+68lpl2t,Recurring,Cat Rent,$20
+68lpl2t,Recurring,Dog Rent,$20
+68lpl2t,One-Time,Admin Fee,$49
+68lpl2t,One-Time,Application Fee,$50
+68lpl2t,One-Time,Cat Fee,$300
+68lpl2t,One-Time,Cat Deposit,$100
+68lpl2t,One-Time,Dog Fee,$300
+68lpl2t,One-Time,Dog Deposit,$100
+3cv98ed,Recurring,Cat Rent,$20
+3cv98ed,Recurring,Dog Rent,$20
+3cv98ed,One-Time,Admin Fee,$150
+3cv98ed,One-Time,Application Fee,$50
+3cv98ed,One-Time,Cat Fee,$300
+3cv98ed,One-Time,Dog Fee,$300
+q80pqcy,Recurring,Storage Fee,$45
+q80pqcy,One-Time,Admin Fee,$150
+q80pqcy,One-Time,Application Fee,$75
+74xsgxx,Recurring,Assigned Garage Parking,$85
+74xsgxx,One-Time,Admin Fee,$150
+74xsgxx,One-Time,Application Fee,$75
+p65ssqs,Recurring,Storage Fee,$50
+p65ssqs,Recurring,Cat Rent,$25
+p65ssqs,Recurring,Dog Rent,$25
+p65ssqs,One-Time,Admin Fee,$150
+p65ssqs,One-Time,Application Fee,$50
+p65ssqs,One-Time,Cat Fee,$600
+p65ssqs,One-Time,Dog Fee,$600
+1712qe4,Recurring,Cat Rent,$25
+1712qe4,Recurring,Dog Rent,$25
+1712qe4,One-Time,Admin Fee,$150
+1712qe4,One-Time,Application Fee,$150
+1712qe4,One-Time,Cat Fee,$300
+1712qe4,One-Time,Dog Fee,$300
+53sk9sp,One-Time,Admin Fee,$200
+53sk9sp,One-Time,Application Fee,$75
+zydrd0y,One-Time,Admin Fee,$200
+zydrd0y,One-Time,Application Fee,$50
+ylwmfmr,One-Time,Admin Fee,$150
+ylwmfmr,One-Time,Application Fee,$50
+37g45nd,Recurring,Cat Rent,$20
+37g45nd,Recurring,Dog Rent,$20
+37g45nd,One-Time,Admin Fee,$300
+37g45nd,One-Time,Application Fee,$50
+37g45nd,One-Time,Cat Fee,$350 - 500
+37g45nd,One-Time,Dog Fee,$350 - 500
+j8f9cv4,Recurring,Cat Rent,$10
+j8f9cv4,Recurring,Dog Rent,$10
+zsltr9z,One-Time,Admin Fee,$150
+zsltr9z,One-Time,Application Fee,$75
+hl6yn31,Recurring,Cat Rent,$25
+hl6yn31,Recurring,Dog Rent,$25
+hl6yn31,One-Time,Admin Fee,$175
+hl6yn31,One-Time,Application Fee,$75
+hl6yn31,One-Time,Cat Fee,$300
+hl6yn31,One-Time,Cat Deposit,$300
+hl6yn31,One-Time,Dog Fee,$300
+hl6yn31,One-Time,Dog Deposit,$300
+5m77whp,Recurring,Assigned Garage Parking,$75
+5m77whp,Recurring,Cat Rent,$15
+5m77whp,Recurring,Dog Rent,$15
+5m77whp,One-Time,Admin Fee,$200
+5m77whp,One-Time,Application Fee,$75
+5m77whp,One-Time,Cat Fee,$350
+5m77whp,One-Time,Dog Fee,$350
+75c64ly,Recurring,Assigned Garage Parking,$150
+75c64ly,One-Time,Admin Fee,$200
+75c64ly,One-Time,Application Fee,$80
+75c64ly,One-Time,Cat Fee,$500
+75c64ly,One-Time,Dog Fee,$500
+9wpvvg5,Recurring,Storage Fee,$45
+9wpvvg5,Recurring,Assigned Garage Parking,$100
+9wpvvg5,One-Time,Admin Fee,$150
+9wpvvg5,One-Time,Application Fee,$75
+9wpvvg5,One-Time,Cat Fee,$500
+9wpvvg5,One-Time,Dog Fee,$500
+evcv96m,One-Time,Admin Fee,$150
+evcv96m,One-Time,Application Fee,$60
+evcv96m,One-Time,Bird Fee,$500
+evcv96m,One-Time,Cat Fee,$500
+evcv96m,One-Time,Dog Fee,$500
+3w8tmpf,One-Time,Admin Fee,$150
+3w8tmpf,One-Time,Application Fee,$60
+3w8tmpf,One-Time,Cat Fee,$500
+3w8tmpf,One-Time,Dog Fee,$500
+6ghvfnr,Recurring,Assigned Garage Parking,$165
+6ghvfnr,One-Time,Admin Fee,$200
+6ghvfnr,One-Time,Application Fee,$90
+6ghvfnr,One-Time,Cat Fee,$500
+6ghvfnr,One-Time,Dog Fee,$500
+nfb89bp,Recurring,Storage Fee,$100
+nfb89bp,Recurring,Assigned Garage Parking,$100
+nfb89bp,Recurring,Cat Rent,$10
+nfb89bp,Recurring,Dog Rent,$10
+nfb89bp,One-Time,Admin Fee,$150
+nfb89bp,One-Time,Application Fee,$75
+nfb89bp,One-Time,Cat Fee,$400
+nfb89bp,One-Time,Dog Fee,$400
+nfb89bp,Utilities Included,Air Conditioning,Included
+rqb3zp1,Recurring,Cat Rent,$15
+rqb3zp1,Recurring,Dog Rent,$15
+rqb3zp1,One-Time,Admin Fee,$75
+rqb3zp1,One-Time,Cat Fee,$375 - 750
+rqb3zp1,One-Time,Dog Fee,$375 - 750
+gfgn31z,Recurring,Cat Rent,$15
+gfgn31z,Recurring,Dog Rent,$15
+gfgn31z,One-Time,Admin Fee,$150
+gfgn31z,One-Time,Application Fee,$55
+gfgn31z,One-Time,Cat Fee,$200
+gfgn31z,One-Time,Dog Fee,$200
+sprvjj6,Recurring,Cat Rent,$15
+sprvjj6,Recurring,Dog Rent,$15
+sprvjj6,One-Time,Admin Fee,$200
+sprvjj6,One-Time,Application Fee,$85
+sprvjj6,One-Time,Cat Fee,$300 - 600
+sprvjj6,One-Time,Dog Fee,$300 - 600
+t6fxcr9,One-Time,Admin Fee,$215
+t6fxcr9,One-Time,Application Fee,$95
+x3yqtgp,Recurring,Cat Rent,$15
+x3yqtgp,Recurring,Dog Rent,$15
+x3yqtgp,One-Time,Application Fee,$50
+5lv2nln,One-Time,Admin Fee,$200
+5lv2nln,One-Time,Application Fee,$90
+cgqth4f,Recurring,Cat Rent,$10
+cgqth4f,Recurring,Dog Rent,$10
+4yzz92h,One-Time,Admin Fee,$100
+4yzz92h,One-Time,Application Fee,$50
+th5wxvc,One-Time,Admin Fee,$210
+th5wxvc,One-Time,Application Fee,$90
+zcdh4cy,Recurring,Cat Rent,$20
+zcdh4cy,Recurring,Dog Rent,$20
+zcdh4cy,Recurring,Other Rent,$20
+zcdh4cy,One-Time,Admin Fee,$200
+zcdh4cy,One-Time,Application Fee,$75
+zcdh4cy,One-Time,Cat Fee,$350
+zcdh4cy,One-Time,Dog Fee,$350
+mwxsv2h,One-Time,Admin Fee,$200
+mwxsv2h,One-Time,Application Fee,$100
+fvv7p2t,Recurring,Cat Rent,$15
+fvv7p2t,Recurring,Dog Rent,$15
+fvv7p2t,One-Time,Admin Fee,$150
+fvv7p2t,One-Time,Application Fee,$50
+fvv7p2t,One-Time,Cat Fee,$400
+fvv7p2t,One-Time,Dog Fee,$400
+p4j76es,Recurring,Cat Rent,$20
+p4j76es,Recurring,Dog Rent,$20
+p4j76es,One-Time,Cat Fee,$300
+p4j76es,One-Time,Dog Fee,$350
+hh1gze2,Recurring,Storage Fee,$45
+hh1gze2,Recurring,Unassigned Garage Parking,$50
+hh1gze2,Recurring,Assigned Other Parking,$125
+hh1gze2,Recurring,Cat Rent,$10
+hh1gze2,Recurring,Dog Rent,$10
+hh1gze2,One-Time,Admin Fee,$250
+hh1gze2,One-Time,Application Fee,$150
+hh1gze2,One-Time,Cat Fee,$500
+hh1gze2,One-Time,Dog Fee,$500
+y22d57t,One-Time,Admin Fee,$250
+y22d57t,One-Time,Application Fee,$100
+pe2lrpr,Recurring,Cat Rent,$20
+pe2lrpr,Recurring,Dog Rent,$20
+pe2lrpr,One-Time,Admin Fee,$300
+pe2lrpr,One-Time,Application Fee,$89
+pe2lrpr,One-Time,Cat Fee,$350
+pe2lrpr,One-Time,Dog Fee,$350
+03k5ne1,One-Time,Admin Fee,$250
+03k5ne1,One-Time,Application Fee,$100
+v90efmg,Recurring,Cat Rent,$20
+v90efmg,Recurring,Dog Rent,$20
+v90efmg,One-Time,Admin Fee,$250
+v90efmg,One-Time,Application Fee,$99
+v90efmg,One-Time,Cat Fee,$300
+v90efmg,One-Time,Dog Fee,$300
+71sms6y,One-Time,Admin Fee,$200
+71sms6y,One-Time,Application Fee,$50
+ebnmb6p,Recurring,Cat Rent,$15
+ebnmb6p,Recurring,Dog Rent,$15
+ebnmb6p,One-Time,Admin Fee,$100
+ebnmb6p,One-Time,Application Fee,$50
+ebnmb6p,One-Time,Cat Fee,$400
+ebnmb6p,One-Time,Dog Fee,$400
+3s7j6md,Recurring,Cat Rent,$25
+3s7j6md,Recurring,Dog Rent,$25
+3s7j6md,One-Time,Admin Fee,$150
+3s7j6md,One-Time,Application Fee,$50
+3s7j6md,One-Time,Cat Fee,$700
+3s7j6md,One-Time,Dog Fee,$700
+wl3x0qj,Recurring,Cat Rent,$10
+wl3x0qj,Recurring,Dog Rent,$10
+wl3x0qj,One-Time,Admin Fee,$74
+wl3x0qj,One-Time,Application Fee,$25
+wl3x0qj,One-Time,Cat Fee,$500
+wl3x0qj,One-Time,Dog Fee,$500
+4kj78dj,Recurring,Storage Fee,$45
+4kj78dj,Recurring,Cat Rent,$15
+4kj78dj,Recurring,Dog Rent,$15
+4kj78dj,One-Time,Admin Fee,$300
+4kj78dj,One-Time,Application Fee,$100
+4kj78dj,One-Time,Cat Fee,$500
+4kj78dj,One-Time,Dog Fee,$500
+xqpcymm,Recurring,Cat Rent,$20
+xqpcymm,Recurring,Dog Rent,$20
+xqpcymm,One-Time,Admin Fee,$300
+xqpcymm,One-Time,Application Fee,$75
+xqpcymm,One-Time,Other,$75
+xqpcymm,One-Time,Cat Fee,$250 - 500
+xqpcymm,One-Time,Dog Fee,$250 - 500
+wrvpe3j,Recurring,Cat Rent,$10
+wrvpe3j,Recurring,Dog Rent,$10
+wrvpe3j,One-Time,Admin Fee,$150
+wrvpe3j,One-Time,Application Fee,$50
+wrvpe3j,One-Time,Cat Fee,$300
+wrvpe3j,One-Time,Dog Fee,$300
+fqlw5qs,Recurring,Unassigned Covered Parking,$25
+fqlw5qs,Recurring,Cat Rent,$15
+fqlw5qs,Recurring,Dog Rent,$15
+fqlw5qs,One-Time,Admin Fee,$150
+fqlw5qs,One-Time,Application Fee,$50
+fp17bpt,Recurring,Cat Rent,$10
+fp17bpt,Recurring,Dog Rent,$10
+fp17bpt,One-Time,Admin Fee,$200
+fp17bpt,One-Time,Application Fee,$75
+fp17bpt,One-Time,Cat Fee,$300
+fp17bpt,One-Time,Dog Fee,$300
+713ppqw,Recurring,Cat Rent,$15
+713ppqw,Recurring,Dog Rent,$15
+713ppqw,One-Time,Admin Fee,$25
+713ppqw,One-Time,Application Fee,$25
+713ppqw,One-Time,Cat Fee,$400
+713ppqw,One-Time,Dog Fee,$400
+ml8rzjj,One-Time,Admin Fee,$180
+ml8rzjj,One-Time,Application Fee,$100
+yb62jqr,Recurring,Cat Rent,$15
+yb62jqr,Recurring,Dog Rent,$15
+yb62jqr,One-Time,Admin Fee,$200
+yb62jqr,One-Time,Application Fee,$85
+yb62jqr,One-Time,Cat Fee,$350
+yb62jqr,One-Time,Cat Deposit,$350
+yb62jqr,One-Time,Dog Fee,$350
+yb62jqr,One-Time,Dog Deposit,$350
+2ly6lb8,Recurring,Cat Rent,$20
+2ly6lb8,Recurring,Dog Rent,$20
+2ly6lb8,One-Time,Admin Fee,$200
+2ly6lb8,One-Time,Application Fee,$65
+2ly6lb8,One-Time,Cat Fee,$350 - 500
+2ly6lb8,One-Time,Dog Fee,$350 - 500
+7yjp9bw,Recurring,Storage Fee,$35
+7yjp9bw,Recurring,Cat Rent,$15
+7yjp9bw,Recurring,Dog Rent,$15
+7yjp9bw,One-Time,Admin Fee,$150
+7yjp9bw,One-Time,Application Fee,$50
+7yjp9bw,One-Time,Cat Fee,$350 - 700
+7yjp9bw,One-Time,Dog Fee,$350 - 700
+s93s597,Recurring,Cat Rent,$26
+s93s597,Recurring,Dog Rent,$25
+s93s597,One-Time,Admin Fee,$150
+s93s597,One-Time,Application Fee,$75
+s93s597,One-Time,Cat Fee,$350 - 450
+s93s597,One-Time,Dog Fee,$350
+x4w6zpm,One-Time,Admin Fee,$150
+x4w6zpm,One-Time,Application Fee,$75
+cmx3tge,One-Time,Admin Fee,$150
+cmx3tge,One-Time,Application Fee,$75
+z1nyt8z,Recurring,Cat Rent,$25
+z1nyt8z,Recurring,Dog Rent,$25
+z1nyt8z,One-Time,Admin Fee,$175
+z1nyt8z,One-Time,Application Fee,$100
+z1nyt8z,One-Time,Cat Fee,$400
+z1nyt8z,One-Time,Dog Fee,$400
+tzqfblc,Recurring,Unassigned Garage Parking,$50
+tzqfblc,Recurring,Cat Rent,$20
+tzqfblc,Recurring,Dog Rent,$20
+tzqfblc,One-Time,Admin Fee,$300
+tzqfblc,One-Time,Application Fee,$89
+tzqfblc,One-Time,Cat Fee,$300
+tzqfblc,One-Time,Dog Fee,$300
+ctrpdyf,Recurring,Cat Rent,$25
+ctrpdyf,Recurring,Dog Rent,$25
+ctrpdyf,One-Time,Admin Fee,$175
+ctrpdyf,One-Time,Application Fee,$65
+ctrpdyf,One-Time,Cat Fee,$600
+ctrpdyf,One-Time,Dog Fee,$600
+648lqnr,Recurring,Cat Rent,$20
+648lqnr,Recurring,Dog Rent,$20
+648lqnr,One-Time,Admin Fee,$150
+648lqnr,One-Time,Application Fee,$75
+648lqnr,One-Time,Cat Fee,$300
+648lqnr,One-Time,Dog Fee,$300
+yervp1v,Recurring,Cat Rent,$20
+yervp1v,Recurring,Dog Rent,$20
+yervp1v,One-Time,Admin Fee,$250
+yervp1v,One-Time,Application Fee,$75
+yervp1v,One-Time,Cat Fee,$600
+yervp1v,One-Time,Dog Fee,$600
+et2wkbq,Recurring,Cat Rent,$15
+et2wkbq,Recurring,Dog Rent,$15
+et2wkbq,One-Time,Application Fee,"$1,000"
+et2wkbq,One-Time,Cat Fee,$500
+et2wkbq,One-Time,Dog Fee,$500
+bgfd7gc,Recurring,Storage Fee,$55
+bgfd7gc,Recurring,Cat Rent,$10
+bgfd7gc,Recurring,Dog Rent,$10
+bgfd7gc,One-Time,Admin Fee,$170
+bgfd7gc,One-Time,Application Fee,$105
+bgfd7gc,One-Time,Cat Fee,$300
+bgfd7gc,One-Time,Cat Deposit,$50
+bgfd7gc,One-Time,Dog Fee,$300
+bgfd7gc,One-Time,Dog Deposit,$50
+346ytbe,Recurring,Storage Fee,$40
+346ytbe,Recurring,Assigned Other Parking,$50
+346ytbe,Recurring,Cat Rent,$15
+346ytbe,Recurring,Dog Rent,$15
+346ytbe,One-Time,Admin Fee,$150
+346ytbe,One-Time,Application Fee,$100
+346ytbe,One-Time,Cat Fee,$700
+346ytbe,One-Time,Cat Deposit,$50
+346ytbe,One-Time,Dog Fee,$700
+346ytbe,One-Time,Dog Deposit,$50
+1qxj8t5,Recurring,Cat Rent,$25
+1qxj8t5,Recurring,Dog Rent,$25
+1qxj8t5,One-Time,Admin Fee,$150
+1qxj8t5,One-Time,Application Fee,$50
+1qxj8t5,One-Time,Cat Fee,$250 - 500
+1qxj8t5,One-Time,Dog Fee,$250 - 500
+g8y1rxz,Recurring,Storage Fee,$35
+g8y1rxz,Recurring,Unassigned Other Parking,$50
+g8y1rxz,Recurring,Cat Rent,$20
+g8y1rxz,Recurring,Dog Rent,$20
+g8y1rxz,One-Time,Admin Fee,$120
+g8y1rxz,One-Time,Application Fee,$125
+g8y1rxz,One-Time,Cat Fee,$200
+g8y1rxz,One-Time,Cat Deposit,$50
+g8y1rxz,One-Time,Dog Fee,$200
+g8y1rxz,One-Time,Dog Deposit,$50
+2yvwn29,Recurring,Unassigned Other Parking,$100
+2yvwn29,Recurring,Cat Rent,$20
+2yvwn29,Recurring,Dog Rent,$20
+2yvwn29,One-Time,Admin Fee,$250
+2yvwn29,One-Time,Application Fee,$99
+2yvwn29,One-Time,Cat Fee,$250
+2yvwn29,One-Time,Cat Deposit,$50
+2yvwn29,One-Time,Dog Fee,$250
+2yvwn29,One-Time,Dog Deposit,$50
+94xq484,Recurring,Unassigned Other Parking,$50
+94xq484,Recurring,Cat Rent,$10
+94xq484,Recurring,Dog Rent,$10
+94xq484,One-Time,Admin Fee,$250
+94xq484,One-Time,Application Fee,$150
+94xq484,One-Time,Cat Deposit,$50
+94xq484,One-Time,Dog Deposit,$50
+84dpxn1,Recurring,Storage Fee,$35
+84dpxn1,Recurring,Unassigned Other Parking,$35
+84dpxn1,Recurring,Cat Rent,$10
+84dpxn1,Recurring,Dog Rent,$10
+84dpxn1,One-Time,Admin Fee,$100
+84dpxn1,One-Time,Application Fee,$150
+84dpxn1,One-Time,Cat Fee,$300
+84dpxn1,One-Time,Cat Deposit,$50
+84dpxn1,One-Time,Dog Fee,$300
+84dpxn1,One-Time,Dog Deposit,$50
+04q27w0,Recurring,Cat Rent,$20
+04q27w0,Recurring,Dog Rent,$20
+04q27w0,One-Time,Admin Fee,$150
+04q27w0,One-Time,Application Fee,$50
+04q27w0,One-Time,Cat Fee,$550
+04q27w0,One-Time,Dog Fee,$550
+rx6wry1,Recurring,Storage Fee,$80
+rx6wry1,Recurring,Cat Rent,$10
+rx6wry1,Recurring,Dog Rent,$10
+rx6wry1,One-Time,Admin Fee,$200
+rx6wry1,One-Time,Application Fee,$50
+rx6wry1,One-Time,Cat Fee,$500
+rx6wry1,One-Time,Dog Fee,$500
+hd7w3h2,Recurring,Storage Fee,$50
+hd7w3h2,Recurring,Cat Rent,$15
+hd7w3h2,Recurring,Dog Rent,$15
+hd7w3h2,One-Time,Admin Fee,$200
+hd7w3h2,One-Time,Application Fee,$75
+hd7w3h2,One-Time,Cat Fee,$300 - 500
+hd7w3h2,One-Time,Dog Fee,$300 - 500
+qxxg5ky,Recurring,Storage Fee,$25
+qxxg5ky,Recurring,Unassigned Garage Parking,$75
+qxxg5ky,Recurring,Cat Rent,$25
+qxxg5ky,Recurring,Dog Rent,$25
+qxxg5ky,One-Time,Admin Fee,$200
+qxxg5ky,One-Time,Application Fee,$100
+qxxg5ky,One-Time,Cat Fee,$300
+qxxg5ky,One-Time,Dog Fee,$500
+rv0ktq3,Recurring,Storage Fee,$50
+rv0ktq3,Recurring,Cat Rent,$15
+rv0ktq3,Recurring,Dog Rent,$15
+rv0ktq3,One-Time,Admin Fee,$200
+rv0ktq3,One-Time,Application Fee,$85
+rv0ktq3,One-Time,Cat Fee,$500
+rv0ktq3,One-Time,Dog Fee,$500
+zhzq5pz,Recurring,Assigned Garage Parking,$40
+zhzq5pz,Recurring,Cat Rent,$15
+zhzq5pz,Recurring,Dog Rent,$15
+zhzq5pz,One-Time,Admin Fee,$200
+zhzq5pz,One-Time,Application Fee,$99
+zhzq5pz,One-Time,Cat Fee,$300 - 600
+zhzq5pz,One-Time,Dog Fee,$300 - 600
+sf0pvd7,Recurring,Unassigned Other Parking,$35
+sf0pvd7,Recurring,Cat Rent,$10
+sf0pvd7,Recurring,Dog Rent,$10
+sf0pvd7,One-Time,Admin Fee,$200
+sf0pvd7,One-Time,Application Fee,$150
+sf0pvd7,One-Time,Cat Fee,$200
+sf0pvd7,One-Time,Cat Deposit,$50
+sf0pvd7,One-Time,Dog Fee,$200
+sf0pvd7,One-Time,Dog Deposit,$50
+gqehqfz,Recurring,Cat Rent,$20
+gqehqfz,Recurring,Dog Rent,$20
+gqehqfz,One-Time,Admin Fee,$150
+gqehqfz,One-Time,Application Fee,$50
+gqehqfz,One-Time,Cat Fee,$300
+gqehqfz,One-Time,Dog Fee,$300
+6zmtbdt,Recurring,Storage Fee,$45
+6zmtbdt,Recurring,Cat Rent,$25
+6zmtbdt,Recurring,Dog Rent,$25
+6zmtbdt,One-Time,Admin Fee,$175
+6zmtbdt,One-Time,Application Fee,$75
+6zmtbdt,One-Time,Cat Fee,$300
+6zmtbdt,One-Time,Dog Fee,$300
+9x5bk96,Recurring,Storage Fee,$30
+9x5bk96,Recurring,Assigned Other Parking,$75
+9x5bk96,Recurring,Cat Rent,$10
+9x5bk96,Recurring,Dog Rent,$10
+9x5bk96,One-Time,Admin Fee,$175
+9x5bk96,One-Time,Application Fee,$75
+9x5bk96,One-Time,Cat Fee,$500
+9x5bk96,One-Time,Dog Fee,$500
+j6cdsd4,Recurring,Storage Fee,$50
+j6cdsd4,Recurring,Assigned Other Parking,$100
+j6cdsd4,One-Time,Admin Fee,$200
+j6cdsd4,One-Time,Application Fee,$75
+j6cdsd4,One-Time,Cat Fee,$600
+j6cdsd4,One-Time,Dog Fee,$600
+t1368wc,Recurring,Storage Fee,$100
+t1368wc,Recurring,Cat Rent,$20
+t1368wc,Recurring,Dog Rent,$20
+t1368wc,One-Time,Admin Fee,$150
+t1368wc,One-Time,Application Fee,$50
+t1368wc,One-Time,Cat Fee,$350
+t1368wc,One-Time,Dog Fee,$350
+6f2fn0r,Recurring,Cat Rent,$10
+6f2fn0r,Recurring,Dog Rent,$10
+6f2fn0r,One-Time,Admin Fee,$200
+6f2fn0r,One-Time,Application Fee,$50
+6f2fn0r,One-Time,Cat Fee,$500
+6f2fn0r,One-Time,Dog Fee,$500
+wkm5bth,Recurring,Storage Fee,$25
+wkm5bth,Recurring,Assigned Garage Parking,$150
+wkm5bth,Recurring,Cat Rent,$15
+wkm5bth,Recurring,Dog Rent,$15
+wkm5bth,One-Time,Admin Fee,$200
+wkm5bth,One-Time,Application Fee,$85
+wkm5bth,One-Time,Cat Fee,$400
+wkm5bth,One-Time,Dog Fee,$400
+2b1y559,Recurring,Storage Fee,$100
+2b1y559,Recurring,Unassigned Garage Parking,$100
+2b1y559,One-Time,Admin Fee,$300
+2b1y559,One-Time,Application Fee,$100
+2b1y559,One-Time,Cat Fee,$400 - 500
+2b1y559,One-Time,Cat Deposit,$100
+2b1y559,One-Time,Dog Fee,$400 - 500
+2b1y559,One-Time,Dog Deposit,$100
+zrmk51y,Recurring,Storage Fee,$30
+zrmk51y,Recurring,Cat Rent,$15
+zrmk51y,Recurring,Dog Rent,$15
+zrmk51y,One-Time,Admin Fee,$200
+zrmk51y,One-Time,Application Fee,$100
+zrmk51y,One-Time,Cat Fee,$600
+zrmk51y,One-Time,Dog Fee,$600
+z62gxbw,Recurring,Cat Rent,$25
+z62gxbw,Recurring,Dog Rent,$25
+z62gxbw,One-Time,Admin Fee,$300
+z62gxbw,One-Time,Application Fee,$65
+z62gxbw,One-Time,Cat Fee,$400 - 500
+z62gxbw,One-Time,Dog Fee,$400 - 500
+tjy2w69,Recurring,Cat Rent,$10
+tjy2w69,Recurring,Dog Rent,$10
+tjy2w69,One-Time,Admin Fee,$149
+tjy2w69,One-Time,Application Fee,$50
+tjy2w69,One-Time,Cat Fee,$350
+tjy2w69,One-Time,Dog Fee,$500
+mjgnq9l,One-Time,Admin Fee,$150
+mjgnq9l,One-Time,Application Fee,$50
+kedgzv8,Recurring,Storage Fee,$35
+kedgzv8,Recurring,Unassigned Garage Parking,$140
+kedgzv8,Recurring,Cat Rent,$20
+kedgzv8,Recurring,Dog Rent,$20
+kedgzv8,One-Time,Admin Fee,$200
+kedgzv8,One-Time,Application Fee,$75
+kedgzv8,One-Time,Cat Fee,$400
+kedgzv8,One-Time,Dog Fee,$400
+wdsrm0k,One-Time,Admin Fee,$150
+wdsrm0k,One-Time,Application Fee,$75
+6zrbnet,One-Time,Admin Fee,$150
+6zrbnet,One-Time,Application Fee,$50
+jjm0r87,One-Time,Admin Fee,$200
+jjm0r87,One-Time,Application Fee,$75
+qj4tw6w,Recurring,Cat Rent,$20
+qj4tw6w,Recurring,Dog Rent,$20
+qj4tw6w,One-Time,Admin Fee,$300
+qj4tw6w,One-Time,Application Fee,$89
+qj4tw6w,One-Time,Cat Fee,$400 - 800
+qj4tw6w,One-Time,Dog Fee,$400 - 800
+v2bgrvf,Recurring,Cat Rent,$10
+v2bgrvf,Recurring,Dog Rent,$10
+v2bgrvf,One-Time,Admin Fee,$200
+v2bgrvf,One-Time,Application Fee,$95
+v2bgrvf,One-Time,Cat Fee,$350
+v2bgrvf,One-Time,Dog Fee,$350
+zrgq5vw,Recurring,Cat Rent,$15
+zrgq5vw,Recurring,Dog Rent,$15
+zrgq5vw,Recurring,Other Rent,$30
+zrgq5vw,One-Time,Admin Fee,$150
+zrgq5vw,One-Time,Application Fee,$50
+zrgq5vw,One-Time,Cat Fee,$300
+zrgq5vw,One-Time,Dog Fee,$300
+zrgq5vw,One-Time,Other Fee(s),$300 - 400
+3mhfc5d,Recurring,Storage Fee,$50
+3mhfc5d,Recurring,Cat Rent,$20
+3mhfc5d,Recurring,Dog Rent,$20
+3mhfc5d,One-Time,Admin Fee,$150
+3mhfc5d,One-Time,Application Fee,$75
+3mhfc5d,One-Time,Cat Fee,$350
+3mhfc5d,One-Time,Dog Fee,$350
+s5mmsy4,Recurring,Assigned Garage Parking,$100
+s5mmsy4,Recurring,Cat Rent,$15
+s5mmsy4,Recurring,Dog Rent,$15
+s5mmsy4,One-Time,Admin Fee,$200
+s5mmsy4,One-Time,Application Fee,$75
+s5mmsy4,One-Time,Cat Fee,$300 - 500
+s5mmsy4,One-Time,Dog Fee,$300 - 500
+v5237re,Recurring,Cat Rent,$20
+v5237re,Recurring,Dog Rent,$20
+v5237re,One-Time,Admin Fee,$200
+v5237re,One-Time,Application Fee,$85
+v5237re,One-Time,Cat Fee,$400
+v5237re,One-Time,Dog Fee,$400
+zmpffny,One-Time,Admin Fee,$150
+zmpffny,One-Time,Application Fee,$75
+0vykyp0,Recurring,Unassigned Garage Parking,$25
+0vykyp0,One-Time,Admin Fee,$150
+0vykyp0,One-Time,Application Fee,$50
+zwves6z,One-Time,Admin Fee,$375
+zwves6z,One-Time,Application Fee,$75
+kv7p1x9,One-Time,Amenity Fee,$15
+kv7p1x9,One-Time,Admin Fee,$225
+kv7p1x9,One-Time,Application Fee,$75
+kv7p1x9,Utilities Included,Water,Included
+hschde3,One-Time,Admin Fee,$275
+hschde3,One-Time,Application Fee,$85
+k43twb9,Recurring,Assigned Covered Parking,$50 - 100
+k43twb9,One-Time,Admin Fee,$200
+k43twb9,One-Time,Application Fee,$90
+lmq1y1f,Recurring,Unassigned Surface Lot Parking,$15
+lmq1y1f,Recurring,Cat Rent,$25
+lmq1y1f,Recurring,Dog Rent,$25
+lmq1y1f,One-Time,Admin Fee,$150
+lmq1y1f,One-Time,Application Fee,$50
+lmq1y1f,One-Time,Cat Fee,$300 - 500
+lmq1y1f,One-Time,Dog Fee,$300 - 500
+kg0ss4c,Recurring,Assigned Garage Parking,$85
+kg0ss4c,Recurring,Cat Rent,$25
+kg0ss4c,Recurring,Dog Rent,$25
+kg0ss4c,One-Time,Admin Fee,$200
+kg0ss4c,One-Time,Application Fee,$75
+kg0ss4c,One-Time,Cat Fee,$300
+kg0ss4c,One-Time,Cat Deposit,$600
+kg0ss4c,One-Time,Dog Fee,$300
+kg0ss4c,One-Time,Dog Deposit,$600
+4f8enxk,Recurring,Cat Rent,$20
+4f8enxk,Recurring,Dog Rent,$20
+4f8enxk,One-Time,Admin Fee,$175
+4f8enxk,One-Time,Application Fee,$50
+4f8enxk,One-Time,Cat Fee,$300 - 500
+4f8enxk,One-Time,Dog Fee,$300 - 500
+hgr8lg1,Recurring,Cat Rent,$20
+hgr8lg1,Recurring,Dog Rent,$20
+hgr8lg1,One-Time,Admin Fee,$150
+hgr8lg1,One-Time,Application Fee,$75
+hgr8lg1,One-Time,Cat Fee,$300
+hgr8lg1,One-Time,Dog Fee,$300
+r2s7130,Recurring,Cat Rent,$40
+r2s7130,Recurring,Dog Rent,$40
+r2s7130,One-Time,Admin Fee,$250
+r2s7130,One-Time,Application Fee,$75
+r2s7130,One-Time,Cat Fee,$300
+r2s7130,One-Time,Dog Fee,$300
+yhthfxt,Recurring,Cat Rent,$15
+yhthfxt,Recurring,Dog Rent,$15
+yhthfxt,One-Time,Admin Fee,$175
+yhthfxt,One-Time,Application Fee,$75
+yhthfxt,One-Time,Cat Fee,$300
+yhthfxt,One-Time,Dog Fee,$300
+40030hj,Recurring,Cat Rent,$50
+40030hj,Recurring,Dog Rent,$50
+40030hj,One-Time,Admin Fee,$150
+40030hj,One-Time,Application Fee,$50
+40030hj,One-Time,Cat Fee,$300 - 500
+40030hj,One-Time,Dog Fee,$300 - 500
+q033q7w,Recurring,Cat Rent,$20
+q033q7w,Recurring,Dog Rent,$20
+q033q7w,One-Time,Admin Fee,$175
+q033q7w,One-Time,Application Fee,$75
+q033q7w,One-Time,Cat Fee,$300 - 600
+q033q7w,One-Time,Dog Fee,$300 - 600
+pd9wm4r,Recurring,Cat Rent,$15
+pd9wm4r,Recurring,Dog Rent,$15
+pd9wm4r,One-Time,Admin Fee,$150
+pd9wm4r,One-Time,Application Fee,$75
+pd9wm4r,One-Time,Cat Fee,$300
+pd9wm4r,One-Time,Dog Fee,$300
+shfchs5,Recurring,Assigned Garage Parking,$50
+shfchs5,Recurring,Cat Rent,$20
+shfchs5,Recurring,Dog Rent,$20
+shfchs5,One-Time,Admin Fee,$275
+shfchs5,One-Time,Application Fee,$95
+shfchs5,One-Time,Cat Fee,$500
+shfchs5,One-Time,Dog Fee,$500
+4qy3m0h,Recurring,Storage Fee,$75
+4qy3m0h,Recurring,Assigned Covered Parking,$30
+4qy3m0h,Recurring,Unassigned Garage Parking,$15
+4qy3m0h,Recurring,Cat Rent,$15
+4qy3m0h,Recurring,Dog Rent,$15
+4qy3m0h,One-Time,Admin Fee,$200
+4qy3m0h,One-Time,Application Fee,$100
+4qy3m0h,One-Time,Cat Fee,$350
+4qy3m0h,One-Time,Dog Fee,$350
+tml6w38,Recurring,Cat Rent,$20
+tml6w38,Recurring,Dog Rent,$20
+tml6w38,One-Time,Admin Fee,$300
+tml6w38,One-Time,Application Fee,$75
+tml6w38,One-Time,Cat Fee,$350
+tml6w38,One-Time,Dog Fee,$350
+btm2vh8,Recurring,Assigned Other Parking,$505
+btm2vh8,Recurring,Cat Rent,$15
+btm2vh8,Recurring,Dog Rent,$15
+btm2vh8,One-Time,Admin Fee,$275
+btm2vh8,One-Time,Application Fee,$100
+btm2vh8,One-Time,Cat Fee,$300 - 600
+btm2vh8,One-Time,Dog Fee,$300 - 600
+337speg,Recurring,Cat Rent,$15
+337speg,Recurring,Dog Rent,$15
+337speg,One-Time,Admin Fee,$150
+337speg,One-Time,Application Fee,$75
+337speg,One-Time,Cat Fee,$350 - 750
+337speg,One-Time,Dog Fee,$350 - 750
+3w7rk8f,Recurring,Storage Fee,$85
+3w7rk8f,Recurring,Assigned Garage Parking,$55
+3w7rk8f,Recurring,Assigned Other Parking,$55
+3w7rk8f,Recurring,Cat Rent,$25
+3w7rk8f,Recurring,Dog Rent,$25
+3w7rk8f,One-Time,Admin Fee,$200
+3w7rk8f,One-Time,Application Fee,$125
+3w7rk8f,One-Time,Cat Fee,$500
+3w7rk8f,One-Time,Dog Fee,$500
+84sx5j2,Recurring,Cat Rent,$20
+84sx5j2,Recurring,Dog Rent,$20
+84sx5j2,One-Time,Admin Fee,$100
+84sx5j2,One-Time,Application Fee,$75
+84sx5j2,One-Time,Cat Fee,$350 - 550
+84sx5j2,One-Time,Dog Fee,$350 - 550
+mlvsbcj,Recurring,Cat Rent,$30
+mlvsbcj,Recurring,Dog Rent,$30
+mlvsbcj,One-Time,Admin Fee,$150
+mlvsbcj,One-Time,Application Fee,$100
+mlvsbcj,One-Time,Cat Fee,$400
+mlvsbcj,One-Time,Dog Fee,$400
+gqjsdgy,Recurring,Unassigned Garage Parking,$50
+gqjsdgy,Recurring,Cat Rent,$40
+gqjsdgy,Recurring,Dog Rent,$40
+gqjsdgy,One-Time,Admin Fee,$300
+gqjsdgy,One-Time,Application Fee,$75
+gqjsdgy,One-Time,Cat Fee,$400 - 800
+gqjsdgy,One-Time,Dog Fee,$400 - 800
+1s3lyj6,One-Time,Admin Fee,$125
+1s3lyj6,One-Time,Application Fee,$49
+1s3lyj6,One-Time,Cat Fee,$300
+1s3lyj6,One-Time,Dog Fee,$300
+ql1h5fx,Recurring,Storage Fee,$75
+ql1h5fx,Recurring,Assigned Garage Parking,$75
+ql1h5fx,One-Time,Admin Fee,$125
+ql1h5fx,One-Time,Application Fee,$49
+ql1h5fx,One-Time,Cat Fee,$300
+ql1h5fx,One-Time,Dog Fee,$300
+p2t5fqs,Recurring,Cat Rent,$10
+p2t5fqs,Recurring,Dog Rent,$10
+p2t5fqs,One-Time,Admin Fee,$125
+p2t5fqs,One-Time,Application Fee,$49
+p2t5fqs,One-Time,Cat Fee,$300
+p2t5fqs,One-Time,Dog Fee,$300
+y511xds,Recurring,Unassigned Garage Parking,$100
+y511xds,One-Time,Application Fee,$99
+y511xds,One-Time,Cat Fee,$400
+y511xds,One-Time,Dog Fee,$400
+ynqd6xr,One-Time,Admin Fee,$125
+ynqd6xr,One-Time,Application Fee,$49
+ynqd6xr,One-Time,Cat Fee,$300
+ynqd6xr,One-Time,Cat Deposit,$300
+ynqd6xr,One-Time,Dog Fee,$300
+ynqd6xr,One-Time,Dog Deposit,$300
+g1940mx,One-Time,Admin Fee,$125
+g1940mx,One-Time,Application Fee,$49
+g1940mx,One-Time,Cat Fee,$300
+g1940mx,One-Time,Dog Fee,$300
+czmjyee,Recurring,Cat Rent,$10
+czmjyee,Recurring,Dog Rent,$10
+czmjyee,One-Time,Admin Fee,$50
+czmjyee,One-Time,Application Fee,$150
+czmjyee,One-Time,Cat Fee,$300 - 500
+czmjyee,One-Time,Dog Fee,$300 - 500
+6qb02rr,Recurring,Storage Fee,$25
+6qb02rr,Recurring,Assigned Garage Parking,$100 - 150
+6qb02rr,Recurring,Unassigned Other Parking,$100
+6qb02rr,Recurring,Cat Rent,$40
+6qb02rr,Recurring,Dog Rent,$40
+6qb02rr,One-Time,Admin Fee,$250
+6qb02rr,One-Time,Application Fee,$75
+6qb02rr,One-Time,Cat Fee,$400 - 800
+6qb02rr,One-Time,Dog Fee,$400 - 800
+d6w9zrh,Recurring,Cat Rent,$30
+d6w9zrh,Recurring,Dog Rent,$30
+d6w9zrh,One-Time,Admin Fee,$200
+d6w9zrh,One-Time,Application Fee,$125
+d6w9zrh,One-Time,Cat Fee,$300
+d6w9zrh,One-Time,Dog Fee,$300
+4sq3tqj,Recurring,Storage Fee,$35
+4sq3tqj,Recurring,Cat Rent,$20
+4sq3tqj,Recurring,Dog Rent,$20
+4sq3tqj,One-Time,Admin Fee,$200
+4sq3tqj,One-Time,Application Fee,$100
+4sq3tqj,One-Time,Cat Fee,$500
+4sq3tqj,One-Time,Cat Deposit,$500
+4sq3tqj,One-Time,Dog Fee,$500
+4sq3tqj,One-Time,Dog Deposit,$500
+mswctsl,Recurring,Cat Rent,$25
+mswctsl,Recurring,Dog Rent,$25
+mswctsl,One-Time,Cat Fee,$300 - 500
+mswctsl,One-Time,Dog Fee,$300 - 500
+k06veq9,Recurring,Cat Rent,$40
+k06veq9,Recurring,Dog Rent,$40
+k06veq9,One-Time,Admin Fee,$50
+k06veq9,One-Time,Application Fee,$100
+k06veq9,One-Time,Cat Fee,$300 - 500
+k06veq9,One-Time,Dog Fee,$300 - 500
+fq047fv,Recurring,Assigned Garage Parking,$75
+fq047fv,Recurring,Cat Rent,$25
+fq047fv,Recurring,Dog Rent,$25
+fq047fv,One-Time,Admin Fee,$200
+fq047fv,One-Time,Application Fee,$75
+fq047fv,One-Time,Cat Fee,$400
+fq047fv,One-Time,Cat Deposit,$400
+fq047fv,One-Time,Dog Fee,$400
+fq047fv,One-Time,Dog Deposit,$400
+8v233n3,Recurring,Unassigned Garage Parking,$100 - 150
+8v233n3,Recurring,Cat Rent,$30
+8v233n3,Recurring,Dog Rent,$30
+8v233n3,One-Time,Admin Fee,$150
+8v233n3,One-Time,Application Fee,$50
+8v233n3,One-Time,Cat Fee,$300 - 450
+8v233n3,One-Time,Dog Fee,$300 - 450
+whx2g1k,Recurring,Storage Fee,$65
+whx2g1k,Recurring,Cat Rent,$40
+whx2g1k,Recurring,Dog Rent,$40
+whx2g1k,One-Time,Admin Fee,$225
+whx2g1k,One-Time,Application Fee,$100
+whx2g1k,One-Time,Cat Fee,$300 - 600
+whx2g1k,One-Time,Dog Fee,$300 - 600
+bbn2n78,Recurring,Cat Rent,$30
+bbn2n78,Recurring,Dog Rent,$30
+bbn2n78,One-Time,Admin Fee,$175
+bbn2n78,One-Time,Application Fee,$75
+bbn2n78,One-Time,Cat Fee,$300 - 600
+bbn2n78,One-Time,Dog Fee,$300 - 600
+1dcxgw6,Recurring,Cat Rent,$50
+1dcxgw6,Recurring,Dog Rent,$50
+1dcxgw6,One-Time,Admin Fee,$225
+1dcxgw6,One-Time,Application Fee,$50
+1dcxgw6,One-Time,Cat Fee,$300
+1dcxgw6,One-Time,Dog Fee,$300
+m1ftqhh,Recurring,Bird Rent,$40
+m1ftqhh,Recurring,Cat Rent,$40
+m1ftqhh,Recurring,Dog Rent,$40
+m1ftqhh,One-Time,Admin Fee,$125
+m1ftqhh,One-Time,Application Fee,$75
+m1ftqhh,One-Time,Bird Fee,$400 - 600
+m1ftqhh,One-Time,Cat Fee,$400 - 600
+m1ftqhh,One-Time,Dog Fee,$400 - 600
+hxxnen1,Recurring,Cat Rent,$50
+hxxnen1,Recurring,Dog Rent,$50
+hxxnen1,One-Time,Admin Fee,$200
+hxxnen1,One-Time,Application Fee,$75
+hxxnen1,One-Time,Cat Fee,$350 - 500
+hxxnen1,One-Time,Dog Fee,$350 - 500
+s75p1h7,Recurring,Unassigned Garage Parking,$75
+s75p1h7,Recurring,Cat Rent,$60
+s75p1h7,Recurring,Dog Rent,$60
+s75p1h7,One-Time,Admin Fee,$250
+s75p1h7,One-Time,Application Fee,$100
+s75p1h7,One-Time,Cat Fee,$30 - 60
+s75p1h7,One-Time,Cat Deposit,$600
+s75p1h7,One-Time,Dog Fee,$30 - 60
+s75p1h7,One-Time,Dog Deposit,$600
+4hl187l,Recurring,Unassigned Garage Parking,$150
+4hl187l,Recurring,Cat Rent,$15
+4hl187l,Recurring,Dog Rent,$15
+4hl187l,One-Time,Admin Fee,$199
+4hl187l,One-Time,Application Fee,$75
+4hl187l,One-Time,Cat Fee,$350
+4hl187l,One-Time,Dog Fee,$350
+3jc0r1g,Recurring,Assigned Covered Parking,$20
+3jc0r1g,Recurring,Assigned Garage Parking,$150
+3jc0r1g,Recurring,Cat Rent,$20
+3jc0r1g,Recurring,Dog Rent,$20
+3jc0r1g,One-Time,Admin Fee,$200
+3jc0r1g,One-Time,Application Fee,$75
+3jc0r1g,One-Time,Cat Fee,$300
+3jc0r1g,One-Time,Dog Fee,$300
+elhz5mq,Recurring,Storage Fee,$65
+elhz5mq,Recurring,Cat Rent,$15
+elhz5mq,Recurring,Dog Rent,$15
+elhz5mq,One-Time,Admin Fee,$160
+elhz5mq,One-Time,Application Fee,$80
+elhz5mq,One-Time,Cat Fee,$500
+elhz5mq,One-Time,Dog Fee,$500
+cqb9w7f,Recurring,Cat Rent,$15
+cqb9w7f,Recurring,Dog Rent,$15
+cqb9w7f,One-Time,Admin Fee,$375
+cqb9w7f,One-Time,Application Fee,$75
+cqb9w7f,One-Time,Cat Fee,$450
+cqb9w7f,One-Time,Dog Fee,$450
+06zptg3,Recurring,Storage Fee,$20
+06zptg3,Recurring,Cat Rent,$25
+06zptg3,Recurring,Dog Rent,$25
+06zptg3,One-Time,Admin Fee,$200
+06zptg3,One-Time,Application Fee,$75
+06zptg3,One-Time,Cat Fee,$400 - 700
+06zptg3,One-Time,Dog Fee,$400 - 700
+7mzfhpx,Recurring,Cat Rent,$20
+7mzfhpx,Recurring,Dog Rent,$20
+7mzfhpx,One-Time,Admin Fee,$200
+7mzfhpx,One-Time,Application Fee,$100
+7mzfhpx,One-Time,Cat Fee,$400
+7mzfhpx,One-Time,Dog Fee,$400
+2c65ccc,Recurring,Storage Fee,$150
+2c65ccc,Recurring,Cat Rent,$20
+2c65ccc,Recurring,Dog Rent,$20
+2c65ccc,One-Time,Admin Fee,$199
+2c65ccc,One-Time,Application Fee,$75
+2c65ccc,One-Time,Cat Fee,$450
+2c65ccc,One-Time,Dog Fee,$450
+dvclq3l,Recurring,Unassigned Garage Parking,$125
+dvclq3l,Recurring,Cat Rent,$40
+dvclq3l,Recurring,Dog Rent,$40
+dvclq3l,One-Time,Admin Fee,$150
+dvclq3l,One-Time,Application Fee,$75
+dvclq3l,One-Time,Cat Fee,$400 - 600
+dvclq3l,One-Time,Dog Fee,$400 - 600
+mp2ed9l,Recurring,Cat Rent,$20
+mp2ed9l,Recurring,Dog Rent,$20
+mp2ed9l,One-Time,Admin Fee,$199
+mp2ed9l,One-Time,Application Fee,$75
+mp2ed9l,One-Time,Cat Fee,$350
+mp2ed9l,One-Time,Dog Fee,$350
+vgqpw5f,Recurring,Unassigned Surface Lot Parking,$100
+vgqpw5f,Recurring,Assigned Garage Parking,$100
+vgqpw5f,Recurring,Cat Rent,$20
+vgqpw5f,Recurring,Dog Rent,$20
+vgqpw5f,One-Time,Admin Fee,$175
+vgqpw5f,One-Time,Application Fee,$75
+vgqpw5f,One-Time,Cat Fee,$350
+vgqpw5f,One-Time,Dog Fee,$350
+ggpvzzx,Recurring,Storage Fee,$25
+ggpvzzx,Recurring,Cat Rent,$20
+ggpvzzx,Recurring,Dog Rent,$20
+ggpvzzx,One-Time,Admin Fee,$250
+ggpvzzx,One-Time,Application Fee,$100
+ggpvzzx,One-Time,Cat Fee,$750
+ggpvzzx,One-Time,Cat Deposit,$750
+ggpvzzx,One-Time,Dog Fee,$750
+ggpvzzx,One-Time,Dog Deposit,$750
+xdvth1p,Recurring,Cat Rent,$25
+xdvth1p,Recurring,Dog Rent,$25
+xdvth1p,One-Time,Admin Fee,$195
+xdvth1p,One-Time,Application Fee,$95
+xdvth1p,One-Time,Cat Fee,$400
+xdvth1p,One-Time,Dog Fee,$400
+z3znr6x,Recurring,Assigned Surface Lot Parking,$100
+z3znr6x,Recurring,Assigned Garage Parking,$100
+z3znr6x,Recurring,Cat Rent,$20
+z3znr6x,Recurring,Dog Rent,$20
+z3znr6x,One-Time,Admin Fee,$150
+z3znr6x,One-Time,Application Fee,$100
+z3znr6x,One-Time,Cat Fee,$300 - 600
+z3znr6x,One-Time,Dog Fee,$300 - 600
+15be985,Recurring,Storage Fee,$65
+15be985,Recurring,Assigned Garage Parking,$200 - 225
+15be985,Recurring,Cat Rent,$50
+15be985,Recurring,Dog Rent,$50
+15be985,One-Time,Admin Fee,$250
+15be985,One-Time,Application Fee,$150
+15be985,One-Time,Cat Fee,$400 - 700
+15be985,One-Time,Cat Deposit,$400
+15be985,One-Time,Dog Fee,$400 - 700
+15be985,One-Time,Dog Deposit,$400
+49hpxfk,Recurring,Cat Rent,$20
+49hpxfk,Recurring,Dog Rent,$20
+49hpxfk,One-Time,Admin Fee,$150
+49hpxfk,One-Time,Application Fee,$85
+49hpxfk,One-Time,Cat Fee,$350
+49hpxfk,One-Time,Dog Fee,$350
+jq6mqq7,Recurring,Cat Rent,$25
+jq6mqq7,Recurring,Dog Rent,$25
+jq6mqq7,One-Time,Admin Fee,$150
+jq6mqq7,One-Time,Application Fee,$50
+jq6mqq7,One-Time,Cat Fee,$300
+jq6mqq7,One-Time,Dog Fee,$300
+gpn60cx,One-Time,Admin Fee,$150
+gpn60cx,One-Time,Application Fee,$75
+gpn60cx,One-Time,Cat Fee,$500
+gpn60cx,One-Time,Dog Fee,$500
+eft27dm,Recurring,Unassigned Surface Lot Parking,$20
+eft27dm,Recurring,Cat Rent,$25
+eft27dm,Recurring,Dog Rent,$25
+eft27dm,One-Time,Admin Fee,$100
+eft27dm,One-Time,Application Fee,$75
+eft27dm,One-Time,Cat Fee,$400 - 625
+eft27dm,One-Time,Dog Fee,$400 - 625
+468h0xh,Recurring,Cat Rent,$40
+468h0xh,Recurring,Dog Rent,$40
+468h0xh,One-Time,Admin Fee,$250
+468h0xh,One-Time,Application Fee,$150
+468h0xh,One-Time,Cat Fee,$250
+468h0xh,One-Time,Cat Deposit,$500
+468h0xh,One-Time,Dog Fee,$250
+468h0xh,One-Time,Dog Deposit,$500
+scksv97,Recurring,Storage Fee,$55
+scksv97,Recurring,Cat Rent,$15
+scksv97,Recurring,Dog Rent,$15
+scksv97,One-Time,Admin Fee,$315
+scksv97,One-Time,Application Fee,$85
+scksv97,One-Time,Cat Fee,$350
+scksv97,One-Time,Dog Fee,$350 - 500
+l58wrqd,Recurring,Fish Rent,$10
+l58wrqd,One-Time,Admin Fee,$200
+l58wrqd,One-Time,Application Fee,$75
+l58wrqd,One-Time,Dog Fee,$300 - 500
+l58wrqd,One-Time,Fish Fee,$300 - 500
+882n8b0,One-Time,Admin Fee,$250
+882n8b0,One-Time,Application Fee,$85
+882n8b0,One-Time,Cat Fee,$400
+882n8b0,One-Time,Dog Fee,$400
+mejlmzk,Recurring,Storage Fee,$60
+mejlmzk,Recurring,Cat Rent,$25
+mejlmzk,Recurring,Dog Rent,$25
+mejlmzk,One-Time,Admin Fee,$200
+mejlmzk,One-Time,Application Fee,$75
+mejlmzk,One-Time,Cat Fee,$500
+mejlmzk,One-Time,Dog Fee,$500
+lk86n5g,Recurring,Cat Rent,$15
+lk86n5g,Recurring,Dog Rent,$15
+lk86n5g,One-Time,Admin Fee,$250
+lk86n5g,One-Time,Application Fee,$85
+lk86n5g,One-Time,Cat Fee,$400
+lk86n5g,One-Time,Dog Fee,$400
+36shtwe,Recurring,Assigned Garage Parking,$125 - 150
+36shtwe,One-Time,Admin Fee,$150
+36shtwe,One-Time,Application Fee,$60
+36shtwe,One-Time,Cat Fee,$500
+36shtwe,One-Time,Dog Fee,$500
+bftjnkc,Recurring,Storage Fee,$30
+bftjnkc,Recurring,Assigned Garage Parking,$100
+bftjnkc,Recurring,Cat Rent,$10
+bftjnkc,Recurring,Dog Rent,$10
+bftjnkc,One-Time,Admin Fee,$250
+bftjnkc,One-Time,Application Fee,$50
+bftjnkc,One-Time,Cat Fee,$300
+bftjnkc,One-Time,Dog Fee,$300
+6wlm9fv,One-Time,Admin Fee,$200
+6wlm9fv,One-Time,Application Fee,$80
+6wlm9fv,One-Time,Cat Fee,$300
+6wlm9fv,One-Time,Dog Fee,$300
+9hqvhd4,Recurring,Assigned Garage Parking,$100
+9hqvhd4,Recurring,Cat Rent,$20
+9hqvhd4,Recurring,Dog Rent,$20
+9hqvhd4,One-Time,Admin Fee,$200
+9hqvhd4,One-Time,Application Fee,$50
+9hqvhd4,One-Time,Cat Fee,$300 - 500
+9hqvhd4,One-Time,Dog Fee,$300 - 500
+q4cgvgw,Recurring,Cat Rent,$25
+q4cgvgw,Recurring,Dog Rent,$25
+q4cgvgw,One-Time,Admin Fee,$200
+q4cgvgw,One-Time,Application Fee,$75
+q4cgvgw,One-Time,Cat Deposit,$500
+q4cgvgw,One-Time,Dog Deposit,$500
+bbd6htb,Recurring,Cat Rent,$15
+bbd6htb,Recurring,Dog Rent,$15
+bbd6htb,One-Time,Admin Fee,$150
+bbd6htb,One-Time,Application Fee,$75
+bbd6htb,One-Time,Cat Fee,$500 - 700
+bbd6htb,One-Time,Dog Fee,$500 - 700
+75x6w3x,Recurring,Storage Fee,$30
+75x6w3x,Recurring,Assigned Other Parking,$25
+75x6w3x,Recurring,Cat Rent,$60
+75x6w3x,Recurring,Dog Rent,$60
+75x6w3x,One-Time,Admin Fee,$175
+75x6w3x,One-Time,Application Fee,$75
+75x6w3x,One-Time,Cat Fee,$400
+75x6w3x,One-Time,Dog Fee,$400
+l28wlve,One-Time,Admin Fee,$250
+l28wlve,One-Time,Application Fee,$50
+l28wlve,One-Time,Cat Fee,$200 - 400
+l28wlve,One-Time,Dog Fee,$300 - 600
+1ph1fq4,Recurring,Assigned Other Parking,$25
+1ph1fq4,Recurring,Cat Rent,$50
+1ph1fq4,Recurring,Dog Rent,$50
+1ph1fq4,Recurring,Fish Rent,$50
+1ph1fq4,One-Time,Admin Fee,$199
+1ph1fq4,One-Time,Application Fee,$65
+1ph1fq4,One-Time,Cat Fee,$300 - 500
+1ph1fq4,One-Time,Dog Fee,$300 - 500
+1ph1fq4,One-Time,Fish Fee,$300 - 500
+24wdf79,Recurring,Cat Rent,$15
+24wdf79,Recurring,Dog Rent,$15
+24wdf79,One-Time,Admin Fee,$150
+24wdf79,One-Time,Application Fee,$75
+24wdf79,One-Time,Cat Fee,$300 - 500
+24wdf79,One-Time,Dog Fee,$300 - 500
+68dgm6r,Recurring,Cat Rent,$25
+68dgm6r,Recurring,Dog Rent,$25
+68dgm6r,One-Time,Admin Fee,$200
+68dgm6r,One-Time,Application Fee,$50
+68dgm6r,One-Time,Cat Fee,$250
+68dgm6r,One-Time,Dog Fee,$250
+p76qett,Recurring,Bird Rent,$40
+p76qett,Recurring,Cat Rent,$40
+p76qett,Recurring,Dog Rent,$40
+p76qett,Recurring,Fish Rent,$40
+p76qett,One-Time,Admin Fee,$150
+p76qett,One-Time,Application Fee,$50
+p76qett,One-Time,Bird Fee,$300
+p76qett,One-Time,Cat Fee,$300
+p76qett,One-Time,Dog Fee,$300
+p76qett,One-Time,Fish Fee,$300
+dn56xdh,Recurring,Cat Rent,$20
+dn56xdh,Recurring,Dog Rent,$20
+dn56xdh,One-Time,Admin Fee,$200
+dn56xdh,One-Time,Application Fee,$75
+dn56xdh,One-Time,Cat Fee,$300
+dn56xdh,One-Time,Dog Fee,$300
+j83mp84,Recurring,Cat Rent,$20
+j83mp84,Recurring,Dog Rent,$20
+j83mp84,One-Time,Cat Fee,$500
+j83mp84,One-Time,Dog Fee,$500
+80lqcz2,Recurring,Unassigned Covered Parking,$100
+80lqcz2,Recurring,Cat Rent,$25
+80lqcz2,Recurring,Dog Rent,$25
+80lqcz2,One-Time,Admin Fee,$275
+80lqcz2,One-Time,Application Fee,$75
+80lqcz2,One-Time,Cat Fee,$350 - 700
+80lqcz2,One-Time,Dog Fee,$350 - 700
+wj2gcwj,Recurring,Cat Rent,$25
+wj2gcwj,Recurring,Dog Rent,$25
+wj2gcwj,One-Time,Admin Fee,$100
+wj2gcwj,One-Time,Application Fee,$50
+wj2gcwj,One-Time,Cat Fee,$350 - 500
+wj2gcwj,One-Time,Dog Fee,$350 - 500
+rve5bx3,Recurring,Cat Rent,$10
+rve5bx3,Recurring,Dog Rent,$10
+rve5bx3,One-Time,Admin Fee,$150
+rve5bx3,One-Time,Application Fee,$50
+rve5bx3,One-Time,Cat Fee,$300 - 600
+rve5bx3,One-Time,Dog Fee,$300 - 600
+v45msmg,Recurring,Unassigned Garage Parking,$125
+v45msmg,One-Time,Admin Fee,$300
+v45msmg,One-Time,Application Fee,$50
+v45msmg,One-Time,Cat Fee,$500
+v45msmg,One-Time,Dog Fee,$500
+3t8jm3d,Recurring,Assigned Garage Parking,$25
+3t8jm3d,Recurring,Cat Rent,$20
+3t8jm3d,Recurring,Dog Rent,$20
+3t8jm3d,One-Time,Admin Fee,$200
+3t8jm3d,One-Time,Application Fee,$100
+3t8jm3d,One-Time,Cat Fee,$350
+3t8jm3d,One-Time,Dog Fee,$350
+fr4xksr,Recurring,Cat Rent,$15
+fr4xksr,Recurring,Dog Rent,$15
+fr4xksr,Recurring,Fish Rent,$15
+fr4xksr,One-Time,Admin Fee,$200
+fr4xksr,One-Time,Application Fee,$75
+fr4xksr,One-Time,Cat Fee,$200 - 300
+fr4xksr,One-Time,Dog Fee,$300
+fr4xksr,One-Time,Fish Fee,$300
+j03p784,Recurring,Cat Rent,$15
+j03p784,Recurring,Dog Rent,$15
+j03p784,One-Time,Admin Fee,$300
+j03p784,One-Time,Application Fee,$99
+j03p784,One-Time,Cat Fee,$300
+j03p784,One-Time,Dog Fee,$300
+h4682c1,One-Time,Admin Fee,$200
+h4682c1,One-Time,Application Fee,$50
+h4682c1,One-Time,Cat Fee,$300
+h4682c1,One-Time,Dog Fee,$300
+jkyzsz4,Recurring,Cat Rent,$20
+jkyzsz4,Recurring,Dog Rent,$20
+jkyzsz4,One-Time,Admin Fee,$200
+jkyzsz4,One-Time,Application Fee,$75
+jkyzsz4,One-Time,Cat Fee,$350
+jkyzsz4,One-Time,Dog Fee,$350
+0rn0mz0,One-Time,Admin Fee,$225
+0rn0mz0,One-Time,Application Fee,$125
+0rn0mz0,One-Time,Cat Fee,$500
+0rn0mz0,One-Time,Cat Deposit,$750
+0rn0mz0,One-Time,Dog Fee,$500
+0rn0mz0,One-Time,Dog Deposit,$750
+hg8dtn1,Recurring,Storage Fee,$40
+hg8dtn1,Recurring,Cat Rent,$20
+hg8dtn1,Recurring,Dog Rent,$20
+hg8dtn1,One-Time,Admin Fee,$175
+hg8dtn1,One-Time,Application Fee,$75
+hg8dtn1,One-Time,Cat Fee,$300 - 500
+hg8dtn1,One-Time,Dog Fee,$300 - 500
+lzrwx6e,Recurring,Cat Rent,$15
+lzrwx6e,Recurring,Dog Rent,$30
+lzrwx6e,One-Time,Admin Fee,$250
+lzrwx6e,One-Time,Application Fee,$100
+lzrwx6e,One-Time,Cat Fee,$400 - 600
+lzrwx6e,One-Time,Dog Fee,$400 - 600
+hvtjec2,Recurring,Unassigned Garage Parking,$125
+hvtjec2,Recurring,Cat Rent,$20
+hvtjec2,Recurring,Dog Rent,$20
+hvtjec2,One-Time,Admin Fee,$200
+hvtjec2,One-Time,Application Fee,$85
+hvtjec2,One-Time,Cat Fee,$350
+hvtjec2,One-Time,Dog Fee,$350
+kg0bepc,Recurring,Storage Fee,$60
+kg0bepc,Recurring,Assigned Surface Lot Parking,$25
+kg0bepc,Recurring,Cat Rent,$25
+kg0bepc,Recurring,Dog Rent,$25
+kg0bepc,One-Time,Admin Fee,$300
+kg0bepc,One-Time,Application Fee,$100
+kg0bepc,One-Time,Cat Fee,$400
+kg0bepc,One-Time,Dog Fee,$400
+x3t6heq,Recurring,Unassigned Garage Parking,$100
+x3t6heq,Recurring,Cat Rent,$15
+x3t6heq,Recurring,Dog Rent,$15
+x3t6heq,One-Time,Admin Fee,$175
+x3t6heq,One-Time,Application Fee,$75
+x3t6heq,One-Time,Cat Fee,$500
+x3t6heq,One-Time,Cat Deposit,$500
+x3t6heq,One-Time,Dog Fee,$500
+x3t6heq,One-Time,Dog Deposit,$500
+2e0tly9,Recurring,Assigned Covered Parking,$150
+2e0tly9,Recurring,Cat Rent,$20
+2e0tly9,Recurring,Dog Rent,$20
+2e0tly9,One-Time,Admin Fee,$250
+2e0tly9,One-Time,Application Fee,$75
+2e0tly9,One-Time,Cat Fee,$400 - 600
+2e0tly9,One-Time,Dog Fee,$400 - 600
+11mx4r5,Recurring,Storage Fee,$75
+11mx4r5,Recurring,Assigned Garage Parking,$25
+11mx4r5,Recurring,Cat Rent,$25
+11mx4r5,Recurring,Dog Rent,$25
+11mx4r5,One-Time,Admin Fee,$150
+11mx4r5,One-Time,Application Fee,$100
+11mx4r5,One-Time,Cat Fee,$400 - 600
+11mx4r5,One-Time,Dog Fee,$400 - 600
+fe2znmv,Recurring,Cat Rent,$10
+fe2znmv,Recurring,Dog Rent,$10
+fe2znmv,One-Time,Admin Fee,$175
+fe2znmv,One-Time,Application Fee,$70
+fe2znmv,One-Time,Cat Fee,$300 - 500
+fe2znmv,One-Time,Dog Fee,$300 - 500
+76j597w,Recurring,Storage Fee,$50
+76j597w,Recurring,Assigned Garage Parking,$30
+76j597w,Recurring,Cat Rent,$20
+76j597w,Recurring,Dog Rent,$20
+76j597w,One-Time,Admin Fee,$300
+76j597w,One-Time,Application Fee,$85
+76j597w,One-Time,Cat Fee,$400
+76j597w,One-Time,Dog Fee,$400
+p1sh2ft,Recurring,Cat Rent,$20
+p1sh2ft,Recurring,Dog Rent,$35
+p1sh2ft,One-Time,Admin Fee,$200
+p1sh2ft,One-Time,Application Fee,$100
+p1sh2ft,One-Time,Cat Fee,$300 - 500
+p1sh2ft,One-Time,Dog Fee,$300 - 500
+d4yl9zl,Recurring,Storage Fee,$65
+d4yl9zl,Recurring,Cat Rent,$15
+d4yl9zl,Recurring,Dog Rent,$15
+d4yl9zl,One-Time,Admin Fee,$200
+d4yl9zl,One-Time,Application Fee,$100
+d4yl9zl,One-Time,Cat Fee,$350
+d4yl9zl,One-Time,Dog Fee,$350
+cp6h21d,Recurring,Storage Fee,$50
+cp6h21d,Recurring,Unassigned Other Parking,$30
+cp6h21d,Recurring,Cat Rent,$15
+cp6h21d,Recurring,Dog Rent,$15
+cp6h21d,One-Time,Admin Fee,$200
+cp6h21d,One-Time,Application Fee,$85
+cp6h21d,One-Time,Cat Fee,$350
+cp6h21d,One-Time,Dog Fee,$350
+lgdpq7g,Recurring,Storage Fee,$35
+lgdpq7g,Recurring,Cat Rent,$20
+lgdpq7g,Recurring,Dog Rent,$20
+lgdpq7g,One-Time,Admin Fee,$175
+lgdpq7g,One-Time,Application Fee,$100
+lgdpq7g,One-Time,Cat Fee,$400
+lgdpq7g,One-Time,Dog Fee,$400
+ey88ebn,Recurring,Cat Rent,$60
+ey88ebn,Recurring,Dog Rent,$60
+ey88ebn,One-Time,Admin Fee,$500
+ey88ebn,One-Time,Application Fee,$75
+ey88ebn,One-Time,Cat Fee,$500 - 750
+ey88ebn,One-Time,Dog Fee,$500 - 750
+vf5xtff,Recurring,Assigned Garage Parking,$40
+vf5xtff,Recurring,Cat Rent,$30
+vf5xtff,Recurring,Dog Rent,$30
+vf5xtff,One-Time,Admin Fee,$250
+vf5xtff,One-Time,Application Fee,$75
+vf5xtff,One-Time,Cat Fee,$200 - 400
+vf5xtff,One-Time,Cat Deposit,$500
+vf5xtff,One-Time,Dog Fee,$200 - 400
+vf5xtff,One-Time,Dog Deposit,$500
+5fnmpyp,Recurring,Cat Rent,$40
+5fnmpyp,Recurring,Dog Rent,$40
+5fnmpyp,One-Time,Admin Fee,$250
+5fnmpyp,One-Time,Application Fee,$75
+5fnmpyp,One-Time,Cat Fee,$250 - 500
+5fnmpyp,One-Time,Cat Deposit,$400
+5fnmpyp,One-Time,Dog Fee,$250 - 500
+5fnmpyp,One-Time,Dog Deposit,$400
+zk6ehwx,Recurring,Assigned Garage Parking,$150
+zk6ehwx,Recurring,Cat Rent,$15
+zk6ehwx,Recurring,Dog Rent,$15
+zk6ehwx,One-Time,Admin Fee,$200
+zk6ehwx,One-Time,Application Fee,$50
+zk6ehwx,One-Time,Cat Fee,$350
+zk6ehwx,One-Time,Cat Deposit,$700
+zk6ehwx,One-Time,Dog Fee,$350
+zk6ehwx,One-Time,Dog Deposit,$700
+gl4xfky,Recurring,Assigned Garage Parking,$125 - 140
+gl4xfky,Recurring,Cat Rent,$20
+gl4xfky,Recurring,Dog Rent,$20
+gl4xfky,One-Time,Admin Fee,$300
+gl4xfky,One-Time,Application Fee,$50
+gl4xfky,One-Time,Cat Fee,$400
+gl4xfky,One-Time,Dog Fee,$400
+xb0q96m,Recurring,Storage Fee,$50
+xb0q96m,Recurring,Cat Rent,$20
+xb0q96m,Recurring,Dog Rent,$20
+xb0q96m,One-Time,Admin Fee,$150
+xb0q96m,One-Time,Application Fee,$75
+xb0q96m,One-Time,Cat Fee,$350
+xb0q96m,One-Time,Dog Fee,$350
+568l33m,Recurring,Cat Rent,$10
+568l33m,Recurring,Dog Rent,$10
+568l33m,One-Time,Admin Fee,$150
+568l33m,One-Time,Application Fee,$80
+568l33m,One-Time,Cat Fee,$350
+568l33m,One-Time,Dog Fee,$350
+1kv4gj4,Recurring,Cat Rent,$20
+1kv4gj4,Recurring,Dog Rent,$20
+1kv4gj4,One-Time,Admin Fee,$200
+1kv4gj4,One-Time,Application Fee,$60
+1kv4gj4,One-Time,Cat Fee,$300 - 500
+1kv4gj4,One-Time,Cat Deposit,$500
+1kv4gj4,One-Time,Dog Fee,$300 - 500
+1kv4gj4,One-Time,Dog Deposit,$500
+kn32cm8,Recurring,Unassigned Covered Parking,$30
+kn32cm8,Recurring,Cat Rent,$15
+kn32cm8,Recurring,Dog Rent,$15
+kn32cm8,One-Time,Admin Fee,$150
+kn32cm8,One-Time,Application Fee,$80
+kn32cm8,One-Time,Cat Fee,$350
+kn32cm8,One-Time,Dog Fee,$350
+p91lxys,Recurring,Cat Rent,$15
+p91lxys,Recurring,Dog Rent,$15
+p91lxys,One-Time,Admin Fee,$150
+p91lxys,One-Time,Application Fee,$50
+p91lxys,One-Time,Cat Fee,$350
+p91lxys,One-Time,Dog Fee,$350
+48r0twl,Recurring,Assigned Garage Parking,$100 - 150
+48r0twl,One-Time,Admin Fee,$200
+48r0twl,One-Time,Application Fee,$50
+48r0twl,One-Time,Cat Fee,$200
+48r0twl,One-Time,Dog Fee,$200
+8c0e152,Recurring,Unassigned Garage Parking,$125
+8c0e152,Recurring,Cat Rent,$25
+8c0e152,Recurring,Dog Rent,$25
+8c0e152,One-Time,Admin Fee,$150
+8c0e152,One-Time,Application Fee,$50
+8c0e152,One-Time,Cat Fee,$300 - 600
+8c0e152,One-Time,Dog Fee,$300 - 600
+xl0ys2q,Recurring,Cat Rent,$10
+xl0ys2q,Recurring,Dog Rent,$10
+xl0ys2q,One-Time,Admin Fee,$200
+xl0ys2q,One-Time,Application Fee,$100
+xl0ys2q,One-Time,Cat Fee,$400 - 550
+xl0ys2q,One-Time,Dog Fee,$400 - 550
+b3d4mw8,Recurring,Storage Fee,$35
+b3d4mw8,Recurring,Unassigned Garage Parking,$125
+b3d4mw8,Recurring,Cat Rent,$25
+b3d4mw8,Recurring,Dog Rent,$25
+b3d4mw8,One-Time,Admin Fee,$150
+b3d4mw8,One-Time,Application Fee,$75
+b3d4mw8,One-Time,Cat Fee,$300
+b3d4mw8,One-Time,Dog Fee,$300
+rzr92v0,One-Time,Admin Fee,$175
+rzr92v0,One-Time,Application Fee,$75
+rzr92v0,One-Time,Cat Fee,$350
+rzr92v0,One-Time,Dog Fee,$350
+9l2p404,Recurring,Cat Rent,$20
+9l2p404,Recurring,Dog Rent,$20
+9l2p404,One-Time,Admin Fee,$200
+9l2p404,One-Time,Application Fee,$99
+9l2p404,One-Time,Cat Fee,$350
+9l2p404,One-Time,Dog Fee,$350
+xg4nk7m,Recurring,Unassigned Garage Parking,$150
+xg4nk7m,Recurring,Cat Rent,$20
+xg4nk7m,Recurring,Dog Rent,$20
+xg4nk7m,One-Time,Admin Fee,$200
+xg4nk7m,One-Time,Application Fee,$75
+xg4nk7m,One-Time,Cat Fee,$400 - 800
+xg4nk7m,One-Time,Dog Fee,$400 - 800
+z59blhw,Recurring,Storage Fee,$30
+z59blhw,Recurring,Unassigned Garage Parking,$25
+z59blhw,Recurring,Cat Rent,$40
+z59blhw,Recurring,Dog Rent,$40
+z59blhw,One-Time,Admin Fee,$200
+z59blhw,One-Time,Application Fee,$75
+z59blhw,One-Time,Cat Fee,$350 - 700
+z59blhw,One-Time,Dog Fee,$350 - 700
+jz9kqt6,Recurring,Cat Rent,$15
+jz9kqt6,Recurring,Dog Rent,$15
+jz9kqt6,One-Time,Admin Fee,$150
+jz9kqt6,One-Time,Application Fee,$50
+jz9kqt6,One-Time,Cat Fee,$350 - 700
+jz9kqt6,One-Time,Dog Fee,$350 - 700
+qknbm2w,Recurring,Cat Rent,$15
+qknbm2w,Recurring,Dog Rent,$15
+qknbm2w,One-Time,Admin Fee,$200
+qknbm2w,One-Time,Application Fee,$99
+qknbm2w,One-Time,Cat Fee,$350 - 700
+qknbm2w,One-Time,Dog Fee,$350 - 700
+s63t434,Recurring,Cat Rent,$22
+s63t434,Recurring,Dog Rent,$22
+s63t434,One-Time,Admin Fee,$150
+s63t434,One-Time,Application Fee,$55
+s63t434,One-Time,Cat Fee,$300
+s63t434,One-Time,Dog Fee,$300
+yvh7v3r,Recurring,Cat Rent,$20
+yvh7v3r,Recurring,Dog Rent,$20
+yvh7v3r,One-Time,Admin Fee,$200
+yvh7v3r,One-Time,Application Fee,$99
+yvh7v3r,One-Time,Cat Fee,$300
+yvh7v3r,One-Time,Dog Fee,$300
+krlrez8,Recurring,Cat Rent,$40
+krlrez8,Recurring,Dog Rent,$40
+krlrez8,One-Time,Admin Fee,$249
+krlrez8,One-Time,Application Fee,$100
+krlrez8,One-Time,Cat Fee,$350
+krlrez8,One-Time,Dog Fee,$350
+vy36fed,Recurring,Storage Fee,$25
+vy36fed,Recurring,Cat Rent,$30
+vy36fed,Recurring,Dog Rent,$30
+vy36fed,One-Time,Admin Fee,$350
+vy36fed,One-Time,Application Fee,$100
+vy36fed,One-Time,Cat Fee,$500
+vy36fed,One-Time,Dog Fee,$500
+f2e1vdt,One-Time,Admin Fee,$195
+f2e1vdt,One-Time,Application Fee,$50
+wwgsrqk,Recurring,Unassigned Other Parking,$75
+wwgsrqk,One-Time,Admin Fee,$200
+wwgsrqk,One-Time,Application Fee,$85
+n0pxfqp,One-Time,Admin Fee,$150
+n0pxfqp,One-Time,Application Fee,$50
+ejwhm8p,Recurring,Unassigned Garage Parking,$100 - 125
+ejwhm8p,Recurring,Cat Rent,$15
+ejwhm8p,Recurring,Dog Rent,$15
+ejwhm8p,One-Time,Admin Fee,$150
+ejwhm8p,One-Time,Application Fee,$75
+ejwhm8p,One-Time,Cat Fee,$300
+ejwhm8p,One-Time,Dog Fee,$300
+x53lykp,Recurring,Assigned Garage Parking,$75
+x53lykp,One-Time,Admin Fee,$20
+x53lykp,One-Time,Application Fee,$75
+x53lykp,Utilities Included,Trash Removal,Included
+y1gmcwt,Recurring,Storage Fee,$25
+y1gmcwt,Recurring,Unassigned Garage Parking,$20
+y1gmcwt,Recurring,Assigned Other Parking,$40
+y1gmcwt,Recurring,Cat Rent,$15
+y1gmcwt,Recurring,Dog Rent,$15
+y1gmcwt,One-Time,Admin Fee,$250
+y1gmcwt,One-Time,Application Fee,$100
+qeery7y,Recurring,Storage Fee,$40
+qeery7y,Recurring,Unassigned Garage Parking,$10 - 30
+qeery7y,One-Time,Admin Fee,$425
+qeery7y,One-Time,Application Fee,$95
+qeery7y,Utilities Included,Gas,Included
+hmjmcd0,One-Time,Admin Fee,$150
+hmjmcd0,One-Time,Application Fee,$50
+hprd3c1,One-Time,Admin Fee,$200
+hprd3c1,One-Time,Application Fee,$99
+1e3bnh6,Recurring,Unassigned Garage Parking,$50
+1e3bnh6,One-Time,Admin Fee,$199
+1e3bnh6,One-Time,Application Fee,$100
+78pwwsx,Recurring,Cat Rent,$15
+78pwwsx,Recurring,Dog Rent,$15
+78pwwsx,One-Time,Admin Fee,$200
+78pwwsx,One-Time,Application Fee,$75
+petpccv,One-Time,Admin Fee,$150
+petpccv,One-Time,Application Fee,$75
+xp2zvdp,Recurring,Unassigned Garage Parking,$100
+xp2zvdp,One-Time,Admin Fee,$150
+xp2zvdp,One-Time,Application Fee,$50
+xp2zvdp,One-Time,Cat Fee,$300
+xp2zvdp,One-Time,Dog Fee,$300
+8emqrj2,Recurring,Unassigned Garage Parking,$125
+8emqrj2,One-Time,Admin Fee,$200
+8emqrj2,One-Time,Application Fee,$75
+7wfe9sz,Recurring,Unassigned Garage Parking,$100
+7wfe9sz,One-Time,Admin Fee,$125
+7wfe9sz,One-Time,Application Fee,$75
+ht6dhg3,Recurring,Unassigned Garage Parking,$40
+ht6dhg3,Recurring,Cat Rent,$20
+ht6dhg3,Recurring,Dog Rent,$20
+ht6dhg3,One-Time,Admin Fee,$410
+ht6dhg3,One-Time,Application Fee,$85
+ht6dhg3,One-Time,Cat Fee,$500
+ht6dhg3,One-Time,Dog Fee,$500
+mdzjgxk,One-Time,Admin Fee,$250
+mdzjgxk,One-Time,Application Fee,$40
+mdzjgxk,Utilities Included,"Water, Trash Removal, Sewer",Included
+2b9ccnc,Recurring,Cat Rent,$20
+2b9ccnc,Recurring,Dog Rent,$20
+2b9ccnc,One-Time,Admin Fee,$250
+2b9ccnc,One-Time,Application Fee,$75
+2b9ccnc,One-Time,Cat Fee,$350
+2b9ccnc,One-Time,Dog Fee,$350
+ms22mel,Recurring,Storage Fee,$50
+ms22mel,Recurring,Unassigned Garage Parking,$80
+ms22mel,Recurring,Cat Rent,$17
+ms22mel,Recurring,Dog Rent,$17
+ms22mel,One-Time,Admin Fee,$200
+ms22mel,One-Time,Application Fee,$100
+ms22mel,One-Time,Other,$24
+ms22mel,One-Time,Cat Fee,$400
+ms22mel,One-Time,Dog Fee,$400
+1mlr527,Recurring,Unassigned Garage Parking,$25
+1mlr527,One-Time,Admin Fee,$250
+1mlr527,One-Time,Application Fee,$100
+3dywydf,One-Time,Admin Fee,$200
+3dywydf,One-Time,Cat Fee,$150
+3dywydf,One-Time,Dog Fee,$250
+3dywydf,Utilities Included,"Water, Trash Removal, Sewer",Included
+y8pk27s,Recurring,Storage Fee,$95
+y8pk27s,Recurring,Assigned Garage Parking,$95
+y8pk27s,One-Time,Admin Fee,$150
+y8pk27s,One-Time,Application Fee,$85
+etkf05p,One-Time,Admin Fee,$200
+etkf05p,One-Time,Application Fee,$50
+5208f4n,One-Time,Admin Fee,$150
+5208f4n,One-Time,Application Fee,$50
+yzwvbgv,Recurring,Cat Rent,$20
+yzwvbgv,Recurring,Dog Rent,$20
+yzwvbgv,One-Time,Admin Fee,$200
+yzwvbgv,One-Time,Application Fee,$65
+yzwvbgv,One-Time,Cat Fee,$150
+yzwvbgv,One-Time,Dog Fee,$150
+gzxp2rz,Recurring,Cat Rent,$10
+gzxp2rz,Recurring,Dog Rent,$10
+gzxp2rz,One-Time,Admin Fee,$100
+gzxp2rz,One-Time,Application Fee,$50
+gzxp2rz,One-Time,Cat Fee,$300
+gzxp2rz,One-Time,Dog Fee,$300
+gzxp2rz,Utilities Included,"Water, Sewer",Included
+t60zd0b,Recurring,Storage Fee,$50
+t60zd0b,Recurring,Assigned Garage Parking,$150
+t60zd0b,One-Time,Admin Fee,$150
+t60zd0b,One-Time,Application Fee,$65
+mgywrdh,Recurring,Assigned Garage Parking,$100
+mgywrdh,One-Time,Admin Fee,$150
+mgywrdh,One-Time,Application Fee,$60
+n8k1k7n,Recurring,Storage Fee,$35
+n8k1k7n,Recurring,Cat Rent,$30
+n8k1k7n,Recurring,Dog Rent,$30
+n8k1k7n,One-Time,Admin Fee,$200
+n8k1k7n,One-Time,Application Fee,$75
+n8k1k7n,One-Time,Cat Fee,$300
+n8k1k7n,One-Time,Dog Fee,$300
+ywxq4hs,Recurring,Cat Rent,$15
+ywxq4hs,Recurring,Dog Rent,$15
+ywxq4hs,One-Time,Admin Fee,$150
+ywxq4hs,One-Time,Application Fee,$50
+ywxq4hs,One-Time,Cat Fee,$350
+ywxq4hs,One-Time,Dog Fee,$350
+jvgtde7,Recurring,Storage Fee,$50
+jvgtde7,One-Time,Admin Fee,$200
+jvgtde7,One-Time,Application Fee,$75
+p2m8fet,Recurring,Storage Fee,$20
+p2m8fet,One-Time,Admin Fee,$150
+p2m8fet,One-Time,Application Fee,$75
+2bljd1b,Recurring,Cat Rent,$25
+2bljd1b,Recurring,Dog Rent,$25
+2bljd1b,One-Time,Application Fee,$35
+2bljd1b,One-Time,Cat Fee,$150
+2bljd1b,One-Time,Cat Deposit,$150
+2bljd1b,One-Time,Dog Fee,$150
+2bljd1b,One-Time,Dog Deposit,$150
+2bljd1b,Utilities Included,Trash Removal,Included
+r5bkc20,One-Time,Admin Fee,$200
+r5bkc20,One-Time,Application Fee,$50
+r5bkc20,One-Time,Cat Fee,$200
+r5bkc20,One-Time,Dog Fee,$200
+r5bkc20,Utilities Included,Trash Removal,Included
+cct9cwd,One-Time,Admin Fee,$150
+cct9cwd,One-Time,Application Fee,$50
+cct9cwd,Utilities Included,"Water, Trash Removal, Sewer",Included
+5x21kvn,Recurring,Storage Fee,$50
+5x21kvn,Recurring,Assigned Covered Parking,$50
+5x21kvn,One-Time,Admin Fee,$200
+5x21kvn,One-Time,Application Fee,$80
+vwkb2qd,Recurring,Cat Rent,$15
+vwkb2qd,Recurring,Dog Rent,$15
+vwkb2qd,One-Time,Admin Fee,$350
+vwkb2qd,One-Time,Application Fee,$100
+vwkb2qd,One-Time,Cat Fee,$400
+vwkb2qd,One-Time,Dog Fee,$400
+tpc7ltc,One-Time,Admin Fee,$50
+tpc7ltc,One-Time,Application Fee,$30
+tpc7ltc,One-Time,Cat Fee,$300
+tpc7ltc,One-Time,Cat Deposit,$150
+tpc7ltc,One-Time,Dog Fee,$300
+tpc7ltc,One-Time,Dog Deposit,$150
+tckhxlb,One-Time,Admin Fee,$285
+tckhxlb,One-Time,Application Fee,$85
+p8wem4v,One-Time,Admin Fee,$250
+p8wem4v,One-Time,Application Fee,$75
+rs1s9v3,Recurring,Cat Rent,$20
+rs1s9v3,Recurring,Dog Rent,$20
+rs1s9v3,One-Time,Admin Fee,$250
+rs1s9v3,One-Time,Application Fee,$50
+rs1s9v3,One-Time,Cat Fee,$300
+rs1s9v3,One-Time,Dog Fee,$300
+rs1s9v3,Utilities Included,Water,Included
+ymgv8pt,Recurring,Storage Fee,$30
+ymgv8pt,One-Time,Admin Fee,$300
+ymgv8pt,One-Time,Application Fee,$100
+ckb4lfg,Recurring,Storage Fee,$25
+ckb4lfg,Recurring,Unassigned Garage Parking,$1 - 125
+ckb4lfg,Recurring,Cat Rent,$20
+ckb4lfg,Recurring,Dog Rent,$20
+ckb4lfg,One-Time,Admin Fee,$150
+ckb4lfg,One-Time,Application Fee,$75
+ckb4lfg,One-Time,Cat Fee,$500
+ckb4lfg,One-Time,Dog Fee,$500
+5ynph5m,Recurring,Storage Fee,$50
+5ynph5m,Recurring,Assigned Surface Lot Parking,$65
+5ynph5m,Recurring,Assigned Covered Parking,$85
+5ynph5m,One-Time,Admin Fee,$400
+5ynph5m,One-Time,Application Fee,$80
+g10kktz,One-Time,Admin Fee,$150
+g10kktz,One-Time,Application Fee,$50
+5q465km,One-Time,Admin Fee,$200
+5q465km,One-Time,Application Fee,$99
+rnlv763,Recurring,Unassigned Other Parking,$100
+rnlv763,One-Time,Admin Fee,$150
+rnlv763,One-Time,Application Fee,$50
+gkrtwjz,One-Time,Admin Fee,$175
+gkrtwjz,One-Time,Application Fee,$75
+sxxv786,One-Time,Admin Fee,$150
+sxxv786,One-Time,Application Fee,$75
+fc5pl2t,Recurring,Storage Fee,$25
+fc5pl2t,One-Time,Admin Fee,$150
+fc5pl2t,One-Time,Application Fee,$95
+6k6hr8s,Recurring,Cat Rent,$10
+6k6hr8s,Recurring,Dog Rent,$10
+6k6hr8s,One-Time,Admin Fee,$200
+6k6hr8s,One-Time,Application Fee,$50
+6k6hr8s,One-Time,Cat Fee,$300
+6k6hr8s,One-Time,Dog Fee,$300
+fb30lft,Recurring,Cat Rent,$25
+fb30lft,Recurring,Dog Rent,$25
+fb30lft,One-Time,Admin Fee,$150
+fb30lft,One-Time,Application Fee,$50
+fb30lft,One-Time,Cat Fee,$400
+fb30lft,One-Time,Dog Fee,$400
+fb30lft,Utilities Included,"Water, Cable",Included
+r19clj0,Recurring,Cat Rent,$20
+r19clj0,Recurring,Dog Rent,$20
+r19clj0,One-Time,Admin Fee,$200
+r19clj0,One-Time,Application Fee,$85
+r19clj0,One-Time,Cat Fee,$300
+r19clj0,One-Time,Dog Fee,$300
+4lb6del,Recurring,Storage Fee,$50
+4lb6del,Recurring,Cat Rent,$30
+4lb6del,Recurring,Dog Rent,$30
+4lb6del,One-Time,Admin Fee,$200
+4lb6del,One-Time,Application Fee,$85
+4lb6del,One-Time,Cat Fee,$300
+4lb6del,One-Time,Dog Fee,$300
+7mt3cpz,One-Time,Admin Fee,$200
+7mt3cpz,One-Time,Application Fee,$99
+6hmnndv,Recurring,Storage Fee,$60
+6hmnndv,Recurring,Assigned Covered Parking,$50
+6hmnndv,One-Time,Admin Fee,$250
+6hmnndv,One-Time,Application Fee,$85
+rlfqdw1,Recurring,Cat Rent,$20
+rlfqdw1,Recurring,Dog Rent,$20
+rlfqdw1,One-Time,Admin Fee,$200
+rlfqdw1,One-Time,Application Fee,$65
+rlfqdw1,One-Time,Cat Fee,$300
+rlfqdw1,One-Time,Dog Fee,$300
+rlfqdw1,Utilities Included,"Water, Trash Removal, Sewer",Included
+zs4zf8w,Recurring,Cat Rent,$20
+zs4zf8w,Recurring,Dog Rent,$20
+zs4zf8w,One-Time,Admin Fee,$200
+zs4zf8w,One-Time,Application Fee,$75
+kcck9b9,Recurring,Assigned Covered Parking,$50
+kcck9b9,Recurring,Assigned Other Parking,$100
+kcck9b9,Recurring,Cat Rent,$20
+kcck9b9,Recurring,Dog Rent,$20
+kcck9b9,One-Time,Admin Fee,$250
+kcck9b9,One-Time,Application Fee,$50
+kcck9b9,One-Time,Cat Fee,$400
+kcck9b9,One-Time,Dog Fee,$400
+hpnsm32,Recurring,Assigned Other Parking,$100
+hpnsm32,One-Time,Admin Fee,$300
+hpnsm32,One-Time,Application Fee,$100
+e6blvnp,Recurring,Storage Fee,$75
+e6blvnp,Recurring,Cat Rent,$10
+e6blvnp,Recurring,Dog Rent,$10
+e6blvnp,One-Time,Admin Fee,$200
+e6blvnp,One-Time,Application Fee,$75
+e6blvnp,One-Time,Cat Fee,$350
+e6blvnp,One-Time,Dog Fee,$350
+pp38ejs,Recurring,Storage Fee,$75
+pp38ejs,Recurring,Unassigned Garage Parking,$200
+pp38ejs,Recurring,Cat Rent,$20
+pp38ejs,Recurring,Dog Rent,$20
+pp38ejs,One-Time,Admin Fee,$250
+pp38ejs,One-Time,Application Fee,$99
+50952pp,Recurring,Unassigned Garage Parking,$35 - 65
+50952pp,Recurring,Cat Rent,$20
+50952pp,Recurring,Dog Rent,$20
+50952pp,One-Time,Admin Fee,$250
+50952pp,One-Time,Application Fee,$100
+759te2z,Recurring,Assigned Garage Parking,$135
+759te2z,One-Time,Admin Fee,$175
+759te2z,One-Time,Application Fee,$50
+qyrt4hw,Recurring,Cat Rent,$10
+qyrt4hw,Recurring,Dog Rent,$10
+qyrt4hw,One-Time,Admin Fee,$200
+qyrt4hw,One-Time,Application Fee,$50
+tpyf8db,Recurring,Cat Rent,$35
+tpyf8db,Recurring,Dog Rent,$35
+tpyf8db,One-Time,Admin Fee,$175
+tpyf8db,One-Time,Application Fee,$75
+tpyf8db,One-Time,Cat Fee,$200
+tpyf8db,One-Time,Dog Fee,$400
+9wfjd46,Recurring,Storage Fee,$75
+9wfjd46,Recurring,Unassigned Garage Parking,$125
+9wfjd46,Recurring,Cat Rent,$25
+9wfjd46,Recurring,Dog Rent,$25
+9wfjd46,One-Time,Admin Fee,$175
+9wfjd46,One-Time,Application Fee,$75
+9wfjd46,One-Time,Cat Fee,$400
+9wfjd46,One-Time,Dog Fee,$400
+w5j421j,One-Time,Admin Fee,$249
+w5j421j,One-Time,Application Fee,$75
+lb5vx5g,Recurring,Cat Rent,$35
+lb5vx5g,Recurring,Dog Rent,$35
+lb5vx5g,One-Time,Admin Fee,$100
+lb5vx5g,One-Time,Application Fee,$50
+lb5vx5g,One-Time,Cat Fee,$500
+lb5vx5g,One-Time,Dog Fee,$500
+dyqtdgk,One-Time,Admin Fee,$175
+dyqtdgk,One-Time,Application Fee,$55
+n15hxep,Recurring,Storage Fee,$65
+n15hxep,Recurring,Cat Rent,$15
+n15hxep,Recurring,Dog Rent,$15
+n15hxep,One-Time,Admin Fee,$100
+n15hxep,One-Time,Application Fee,$50
+n15hxep,One-Time,Cat Fee,$300
+n15hxep,One-Time,Dog Fee,$300
+m6b2glh,Recurring,Storage Fee,$25
+m6b2glh,Recurring,Unassigned Garage Parking,$50
+m6b2glh,One-Time,Admin Fee,$250
+m6b2glh,One-Time,Application Fee,$100
+173ymm4,Recurring,Cat Rent,$10
+173ymm4,Recurring,Dog Rent,$10
+173ymm4,One-Time,Admin Fee,$150
+173ymm4,One-Time,Application Fee,$85
+173ymm4,One-Time,Cat Fee,$150
+173ymm4,One-Time,Dog Fee,$150
+m91mykk,One-Time,Admin Fee,$75
+m91mykk,One-Time,Application Fee,$35
+m91mykk,Utilities Included,Trash Removal,Included
+n0jdl2q,One-Time,Admin Fee,$75
+n0jdl2q,One-Time,Application Fee,$35
+n0jdl2q,Utilities Included,Water,Included
+xy6vc9q,One-Time,Admin Fee,$150
+xy6vc9q,One-Time,Application Fee,$35
+307f0sd,Recurring,Assigned Garage Parking,$120
+307f0sd,One-Time,Admin Fee,$75
+307f0sd,One-Time,Application Fee,$35
+sslx465,One-Time,Admin Fee,$150
+sslx465,One-Time,Application Fee,$35
+vsnlkhg,Recurring,Unassigned Covered Parking,$25
+vsnlkhg,Recurring,Unassigned Other Parking,$100
+vsnlkhg,Recurring,Cat Rent,$20
+vsnlkhg,Recurring,Dog Rent,$20
+vsnlkhg,One-Time,Admin Fee,$200
+vsnlkhg,One-Time,Application Fee,$75
+8c15dh3,Recurring,Cat Rent,$25
+8c15dh3,Recurring,Dog Rent,$25
+8c15dh3,One-Time,Admin Fee,$150
+8c15dh3,One-Time,Application Fee,$50
+8c15dh3,One-Time,Cat Fee,$150
+8c15dh3,One-Time,Cat Deposit,$150
+8c15dh3,One-Time,Dog Fee,$150
+8c15dh3,One-Time,Dog Deposit,$150
+8c15dh3,Utilities Included,Trash Removal,Included
+5rq7f2m,Recurring,Cat Rent,$25
+5rq7f2m,Recurring,Dog Rent,$25
+5rq7f2m,One-Time,Application Fee,$25
+5rq7f2m,One-Time,Cat Fee,$150
+5rq7f2m,One-Time,Cat Deposit,$150
+5rq7f2m,One-Time,Dog Fee,$150
+5rq7f2m,One-Time,Dog Deposit,$150
+5rq7f2m,Utilities Included,"Water, Trash Removal, Sewer",Included
+dw8sbjh,One-Time,Admin Fee,$150
+dw8sbjh,One-Time,Application Fee,$35
+xrd6csp,One-Time,Admin Fee,$75
+xrd6csp,One-Time,Application Fee,$35
+k8312yc,Recurring,Unassigned Garage Parking,$100
+k8312yc,Recurring,Cat Rent,$10
+k8312yc,Recurring,Dog Rent,$10
+k8312yc,One-Time,Admin Fee,$300
+k8312yc,One-Time,Application Fee,$75
+k8312yc,One-Time,Cat Fee,$300
+k8312yc,One-Time,Dog Fee,$300
+7vc8ykx,One-Time,Admin Fee,$300
+7vc8ykx,One-Time,Application Fee,$50
+ql9dqgy,Recurring,Storage Fee,$45
+ql9dqgy,Recurring,Unassigned Garage Parking,$100
+ql9dqgy,One-Time,Admin Fee,$300
+ql9dqgy,One-Time,Application Fee,$75
+ll16fde,Recurring,Cat Rent,$25
+ll16fde,Recurring,Dog Rent,$25
+ll16fde,One-Time,Admin Fee,$150
+ll16fde,One-Time,Application Fee,$50
+ll16fde,One-Time,Cat Deposit,$300
+ll16fde,One-Time,Dog Deposit,$300
+q9jhgvy,Recurring,Cat Rent,$20
+q9jhgvy,Recurring,Dog Rent,$20
+q9jhgvy,One-Time,Admin Fee,$299
+q9jhgvy,One-Time,Application Fee,$150
+q9jhgvy,One-Time,Cat Fee,$4
+q9jhgvy,One-Time,Dog Fee,$4
+rr2tzf3,One-Time,Admin Fee,$325
+rr2tzf3,One-Time,Application Fee,$60
+4mzp80j,One-Time,Admin Fee,$325
+4mzp80j,One-Time,Application Fee,$60
+hl2j4q1,Recurring,Unassigned Garage Parking,$125
+hl2j4q1,One-Time,Admin Fee,$325
+hl2j4q1,One-Time,Application Fee,$60
+k1803fc,One-Time,Admin Fee,$150
+k1803fc,One-Time,Application Fee,$75
+pgp9vxt,Recurring,Cat Rent,$10
+pgp9vxt,Recurring,Dog Rent,$10
+pgp9vxt,One-Time,Admin Fee,$150
+pgp9vxt,One-Time,Application Fee,$75
+3nm399g,Recurring,Unassigned Garage Parking,$50
+3nm399g,Recurring,Unassigned Other Parking,$175
+3nm399g,Recurring,Cat Rent,$15
+3nm399g,Recurring,Dog Rent,$15
+3nm399g,One-Time,Admin Fee,$250
+3nm399g,One-Time,Application Fee,$75
+3nm399g,One-Time,Cat Fee,$400
+3nm399g,One-Time,Dog Fee,$400
+0bb9h91,One-Time,Admin Fee,$200
+0bb9h91,One-Time,Application Fee,$80
+t33qwxc,Recurring,Assigned Garage Parking,$100
+t33qwxc,Recurring,Cat Rent,$15
+t33qwxc,Recurring,Dog Rent,$15
+t33qwxc,One-Time,Admin Fee,$150
+t33qwxc,One-Time,Application Fee,$60
+t33qwxc,One-Time,Cat Fee,$300
+t33qwxc,One-Time,Dog Fee,$300
+p18y2qr,Recurring,Storage Fee,$25
+p18y2qr,Recurring,Cat Rent,$25
+p18y2qr,Recurring,Dog Rent,$25
+p18y2qr,One-Time,Admin Fee,$155
+p18y2qr,One-Time,Application Fee,$85
+p18y2qr,One-Time,Cat Fee,$350
+p18y2qr,One-Time,Dog Fee,$350
+2l6d41c,One-Time,Admin Fee,$250
+2l6d41c,One-Time,Application Fee,$85
+mmmfe4h,One-Time,Admin Fee,$200
+mmmfe4h,One-Time,Application Fee,$75
+1810257,One-Time,Admin Fee,$250
+1810257,One-Time,Application Fee,$85
+87951d3,One-Time,Admin Fee,$250
+87951d3,One-Time,Application Fee,$85
+vrjdv8e,One-Time,Admin Fee,$250
+vrjdv8e,One-Time,Application Fee,$85
+erzgdcm,One-Time,Admin Fee,$250
+erzgdcm,One-Time,Application Fee,$85
+z8ecdzw,Recurring,Storage Fee,$50
+z8ecdzw,One-Time,Admin Fee,$250
+z8ecdzw,One-Time,Application Fee,$85
+g9yvbdw,One-Time,Admin Fee,$250
+g9yvbdw,One-Time,Application Fee,$85
+8tqb3x0,One-Time,Admin Fee,$200
+8tqb3x0,One-Time,Application Fee,$85
+v82z13d,Recurring,Assigned Garage Parking,$100
+v82z13d,One-Time,Admin Fee,$250
+v82z13d,One-Time,Application Fee,$85
+3n88qke,One-Time,Admin Fee,$250
+3n88qke,One-Time,Application Fee,$85
+jdzry95,One-Time,Admin Fee,$250
+jdzry95,One-Time,Application Fee,$85
+m1b7dwj,Recurring,Storage Fee,$25
+m1b7dwj,One-Time,Admin Fee,$250
+m1b7dwj,One-Time,Application Fee,$85
+4tjtswk,Recurring,Storage Fee,$35
+4tjtswk,Recurring,Assigned Garage Parking,$35
+4tjtswk,One-Time,Admin Fee,$250
+4tjtswk,One-Time,Application Fee,$85
+v4l1dxe,Recurring,Storage Fee,$30
+v4l1dxe,Recurring,Assigned Covered Parking,$150
+v4l1dxe,One-Time,Admin Fee,$250
+v4l1dxe,One-Time,Application Fee,$85
+48g6t1k,Recurring,Unassigned Garage Parking,$100 - 250
+48g6t1k,One-Time,Admin Fee,$250
+48g6t1k,One-Time,Application Fee,$85
+1vrbc67,Recurring,Storage Fee,$30
+1vrbc67,Recurring,Assigned Covered Parking,$130
+1vrbc67,One-Time,Admin Fee,$250
+1vrbc67,One-Time,Application Fee,$85
+jzedwk6,One-Time,Admin Fee,$350
+jzedwk6,One-Time,Application Fee,$85
+sey24x5,Recurring,Storage Fee,$40
+sey24x5,One-Time,Admin Fee,$300
+sey24x5,One-Time,Application Fee,$85
+9yyrgl4,One-Time,Application Fee,$85
+9yyrgl4,Utilities Included,Trash Removal,Included
+cjj7qwe,Recurring,Storage Fee,$50
+cjj7qwe,One-Time,Admin Fee,$250
+cjj7qwe,One-Time,Application Fee,$85
+tkzyz39,One-Time,Admin Fee,$150
+tkzyz39,One-Time,Application Fee,$35
+gbty2fy,Recurring,Storage Fee,$55
+gbty2fy,One-Time,Admin Fee,$49
+gbty2fy,One-Time,Application Fee,$50
+r9nw601,Recurring,Storage Fee,$35
+r9nw601,Recurring,Unassigned Garage Parking,$125
+r9nw601,One-Time,Admin Fee,$250
+r9nw601,One-Time,Application Fee,$100
+plg19fs,Recurring,Unassigned Garage Parking,$125
+plg19fs,One-Time,Admin Fee,$250
+plg19fs,One-Time,Application Fee,$100
+nvfxq1q,Recurring,Assigned Covered Parking,$75
+nvfxq1q,One-Time,Admin Fee,$200
+nvfxq1q,One-Time,Application Fee,$85
+b1pebl9,Recurring,Storage Fee,$30
+b1pebl9,Recurring,Unassigned Garage Parking,$50
+b1pebl9,One-Time,Admin Fee,$300
+b1pebl9,One-Time,Application Fee,$100
+nml0gvq,Recurring,Storage Fee,$60
+nml0gvq,Recurring,Cat Rent,$15
+nml0gvq,Recurring,Dog Rent,$15
+nml0gvq,One-Time,Admin Fee,$190
+nml0gvq,One-Time,Application Fee,$80
+nml0gvq,One-Time,Cat Fee,$300
+nml0gvq,One-Time,Dog Fee,$300
+2v3ve0c,One-Time,Admin Fee,$200
+2v3ve0c,One-Time,Application Fee,$50
+wp0hh9l,Recurring,Storage Fee,$25
+wp0hh9l,Recurring,Unassigned Garage Parking,$50
+wp0hh9l,One-Time,Admin Fee,$300
+wp0hh9l,One-Time,Application Fee,$100
+db74jmj,Recurring,Storage Fee,$50
+db74jmj,Recurring,Unassigned Garage Parking,$190 - 249
+db74jmj,Recurring,Cat Rent,$15
+db74jmj,Recurring,Dog Rent,$15
+db74jmj,One-Time,Admin Fee,$150
+db74jmj,One-Time,Application Fee,$50
+db74jmj,One-Time,Cat Fee,$400
+db74jmj,One-Time,Dog Fee,$400
+evwjjsp,Recurring,Unassigned Garage Parking,$125
+evwjjsp,One-Time,Admin Fee,$150
+evwjjsp,One-Time,Application Fee,$85
+dqdb28h,Recurring,Assigned Other Parking,$25
+dqdb28h,Recurring,Cat Rent,$25
+dqdb28h,Recurring,Dog Rent,$25
+dqdb28h,One-Time,Admin Fee,$125
+dqdb28h,One-Time,Application Fee,$75
+mqf040h,One-Time,Admin Fee,$160
+mqf040h,One-Time,Application Fee,$50
+byd7xpc,Recurring,Cat Rent,$10
+byd7xpc,Recurring,Dog Rent,$10
+byd7xpc,One-Time,Admin Fee,$410
+byd7xpc,One-Time,Application Fee,$85
+byd7xpc,One-Time,Cat Fee,$500
+byd7xpc,One-Time,Dog Fee,$500
+yzeb12v,One-Time,Admin Fee,$150
+yzeb12v,One-Time,Application Fee,$50
+yk0h8lv,Recurring,Storage Fee,$35
+yk0h8lv,Recurring,Unassigned Garage Parking,$75
+yk0h8lv,One-Time,Admin Fee,$100
+yk0h8lv,One-Time,Application Fee,$50
+ec1e0tn,Recurring,Storage Fee,$95
+ec1e0tn,Recurring,Cat Rent,$10
+ec1e0tn,Recurring,Dog Rent,$10
+ec1e0tn,One-Time,Admin Fee,$150
+ec1e0tn,One-Time,Application Fee,$50
+ec1e0tn,Utilities Included,"Water, Trash Removal",Included
+1zsths6,One-Time,Admin Fee,$150
+1zsths6,One-Time,Application Fee,$50
+rmz7mz0,One-Time,Application Fee,$50
+rmz7mz0,Utilities Included,Trash Removal,Included
+m6pcpbj,One-Time,Admin Fee,$100
+m6pcpbj,One-Time,Application Fee,$50
+m6pcpbj,One-Time,Cat Fee,$500
+m6pcpbj,One-Time,Dog Fee,$500
+mg2lvbh,Recurring,Unassigned Garage Parking,$30
+mg2lvbh,Recurring,Cat Rent,$10
+mg2lvbh,Recurring,Dog Rent,$10
+mg2lvbh,One-Time,Admin Fee,$250
+mg2lvbh,One-Time,Application Fee,$100
+mg2lvbh,One-Time,Cat Fee,$300
+mg2lvbh,One-Time,Dog Fee,$300
+hxgt5x2,Recurring,Assigned Garage Parking,$40
+hxgt5x2,One-Time,Admin Fee,$300
+hxgt5x2,One-Time,Application Fee,$99
+0mwzmn0,One-Time,Application Fee,$50
+hl6r483,Recurring,Cat Rent,$10
+hl6r483,Recurring,Dog Rent,$10
+hl6r483,One-Time,Admin Fee,$150
+hl6r483,One-Time,Application Fee,$75
+hl6r483,One-Time,Cat Fee,$450
+hl6r483,One-Time,Dog Fee,$450
+e8xm9tq,One-Time,Admin Fee,$200
+e8xm9tq,One-Time,Application Fee,$50
+e8xm9tq,One-Time,Cat Fee,$300
+e8xm9tq,One-Time,Dog Fee,$300
+e8xm9tq,Utilities Included,Cable,Included
+3770nse,Recurring,Assigned Garage Parking,$125
+3770nse,One-Time,Admin Fee,$150
+3770nse,One-Time,Application Fee,$50
+3770nse,One-Time,Cat Fee,$350
+3770nse,One-Time,Dog Fee,$350
+3770nse,Utilities Included,Cable,Included
+tm7re48,One-Time,Admin Fee,$200
+tm7re48,One-Time,Application Fee,$50
+tm7re48,One-Time,Cat Fee,$300
+tm7re48,One-Time,Dog Fee,$300
+tm7re48,Utilities Included,Cable,Included
+gddqx9w,One-Time,Admin Fee,$500
+gddqx9w,One-Time,Application Fee,$90
+gddqx9w,One-Time,Cat Fee,$250
+gddqx9w,One-Time,Dog Fee,$500
+5yc311m,One-Time,Application Fee,$150
+ftbf24s,Recurring,Storage Fee,$50
+ftbf24s,One-Time,Admin Fee,$165
+ftbf24s,One-Time,Application Fee,$85
+3vp1ptf,One-Time,Admin Fee,$400
+3vp1ptf,One-Time,Application Fee,$104
+3vp1ptf,One-Time,Cat Fee,$300
+3vp1ptf,One-Time,Dog Fee,$500
+s8dqbl5,One-Time,Admin Fee,$300
+s8dqbl5,One-Time,Application Fee,$80
+s8dqbl5,One-Time,Cat Fee,$500
+s8dqbl5,One-Time,Dog Fee,$500
+g35mz0z,Recurring,Cat Rent,$15
+g35mz0z,Recurring,Dog Rent,$15
+g35mz0z,One-Time,Admin Fee,$200
+g35mz0z,One-Time,Application Fee,$50
+g35mz0z,One-Time,Cat Fee,$400
+g35mz0z,One-Time,Dog Fee,$400
+r0jjyf1,One-Time,Admin Fee,$75
+r0jjyf1,One-Time,Application Fee,$50
+r0jjyf1,Utilities Included,"Heat, Air Conditioning",Included
+me7ev9k,Recurring,Cat Rent,$25
+me7ev9k,Recurring,Dog Rent,$25
+me7ev9k,One-Time,Admin Fee,$155
+me7ev9k,One-Time,Application Fee,$65
+me7ev9k,One-Time,Cat Deposit,$350
+me7ev9k,One-Time,Dog Deposit,$350
+sy8n307,Recurring,Cat Rent,$25
+sy8n307,Recurring,Dog Rent,$25
+sy8n307,One-Time,Admin Fee,$155
+sy8n307,One-Time,Application Fee,$65
+sy8n307,One-Time,Cat Deposit,$350
+sy8n307,One-Time,Dog Deposit,$350
+sy8n307,Utilities Included,"Water, Trash Removal, Sewer",Included
+xnk0jwm,Recurring,Cat Rent,$25
+xnk0jwm,Recurring,Dog Rent,$25
+xnk0jwm,One-Time,Admin Fee,$155
+xnk0jwm,One-Time,Application Fee,$65
+xnk0jwm,One-Time,Cat Deposit,$350
+xnk0jwm,One-Time,Dog Deposit,$350
+xnk0jwm,Utilities Included,Trash Removal,Included
+nd3k1cn,Recurring,Cat Rent,$25
+nd3k1cn,Recurring,Dog Rent,$25
+nd3k1cn,One-Time,Admin Fee,$155
+nd3k1cn,One-Time,Application Fee,$65
+nd3k1cn,One-Time,Cat Deposit,$350
+nd3k1cn,One-Time,Dog Deposit,$350
+dntj44k,Recurring,Cat Rent,$25
+dntj44k,Recurring,Dog Rent,$25
+dntj44k,One-Time,Admin Fee,$155
+dntj44k,One-Time,Application Fee,$65
+dntj44k,One-Time,Cat Fee,$350
+dntj44k,One-Time,Dog Fee,$350
+80b2p60,Recurring,Cat Rent,$25
+80b2p60,Recurring,Dog Rent,$25
+80b2p60,One-Time,Admin Fee,$155
+80b2p60,One-Time,Application Fee,$65
+80b2p60,One-Time,Cat Deposit,$350
+80b2p60,One-Time,Dog Deposit,$350
+phgbgyt,One-Time,Admin Fee,$200
+phgbgyt,One-Time,Application Fee,$35
+zdce14y,Recurring,Assigned Garage Parking,$125
+zdce14y,Recurring,Cat Rent,$20
+zdce14y,Recurring,Dog Rent,$20
+zdce14y,One-Time,Admin Fee,$175
+zdce14y,One-Time,Application Fee,$65
+zdce14y,One-Time,Cat Fee,$300
+zdce14y,One-Time,Dog Fee,$300
+zdce14y,Utilities Included,"Trash Removal, Sewer",Included
+xpl9mmp,Recurring,Cat Rent,$25
+xpl9mmp,Recurring,Dog Rent,$25
+xpl9mmp,One-Time,Admin Fee,$50
+xpl9mmp,One-Time,Application Fee,$30
+xpl9mmp,One-Time,Cat Fee,$200
+xpl9mmp,One-Time,Dog Fee,$200
+5zkgz1m,Recurring,Storage Fee,$50
+5zkgz1m,Recurring,Assigned Garage Parking,$125
+5zkgz1m,Recurring,Cat Rent,$10
+5zkgz1m,Recurring,Dog Rent,$10
+5zkgz1m,One-Time,Admin Fee,$200
+5zkgz1m,One-Time,Application Fee,$50
+5zkgz1m,One-Time,Cat Fee,$300
+5zkgz1m,One-Time,Dog Fee,$300
+7wpme4x,Recurring,Assigned Other Parking,$75
+7wpme4x,Recurring,Cat Rent,$20
+7wpme4x,Recurring,Dog Rent,$20
+7wpme4x,One-Time,Admin Fee,$125
+7wpme4x,One-Time,Application Fee,$100
+7wpme4x,One-Time,Cat Fee,$350
+7wpme4x,One-Time,Cat Deposit,$50
+7wpme4x,One-Time,Dog Fee,$350
+7wpme4x,One-Time,Dog Deposit,$50
+xnvzz3q,Recurring,Assigned Other Parking,$15
+xnvzz3q,Recurring,Cat Rent,$15
+xnvzz3q,Recurring,Dog Rent,$15
+xnvzz3q,One-Time,Admin Fee,$49
+xnvzz3q,One-Time,Application Fee,$25
+xnvzz3q,One-Time,Cat Fee,$250
+xnvzz3q,One-Time,Dog Fee,$250
+65k4czr,Recurring,Cat Rent,$15
+65k4czr,Recurring,Dog Rent,$15
+65k4czr,One-Time,Admin Fee,$100
+65k4czr,One-Time,Application Fee,$25
+65k4czr,One-Time,Cat Fee,$300
+65k4czr,One-Time,Dog Fee,$300
+f8v1llv,One-Time,Admin Fee,$125
+f8v1llv,One-Time,Application Fee,$85
+f8v1llv,One-Time,Cat Fee,$500
+f8v1llv,One-Time,Cat Deposit,$200
+f8v1llv,One-Time,Dog Fee,$500
+f8v1llv,One-Time,Dog Deposit,$200
+5xq0btm,Recurring,Cat Rent,$25
+5xq0btm,Recurring,Dog Rent,$25
+5xq0btm,One-Time,Admin Fee,$200
+5xq0btm,One-Time,Application Fee,$75
+5xq0btm,One-Time,Cat Fee,$400
+5xq0btm,One-Time,Dog Fee,$400
+elcfhnm,One-Time,Application Fee,$50
+elcfhnm,Utilities Included,Trash Removal,Included
+4esl75l,Recurring,Cat Rent,$15
+4esl75l,Recurring,Dog Rent,$15
+4esl75l,One-Time,Admin Fee,$150
+4esl75l,One-Time,Application Fee,$50
+4esl75l,One-Time,Cat Fee,$300
+4esl75l,One-Time,Dog Fee,$300
+ez9l47n,Recurring,Unassigned Garage Parking,$110
+ez9l47n,One-Time,Admin Fee,$150
+ez9l47n,One-Time,Application Fee,$75
+ez9l47n,One-Time,Cat Fee,$500
+ez9l47n,One-Time,Cat Deposit,$200
+ez9l47n,One-Time,Dog Fee,$500
+ez9l47n,One-Time,Dog Deposit,$200
+5zwl63n,Recurring,Storage Fee,$150
+5zwl63n,Recurring,Assigned Garage Parking,$150
+5zwl63n,Recurring,Cat Rent,$20
+5zwl63n,Recurring,Dog Rent,$20
+5zwl63n,One-Time,Admin Fee,$150
+5zwl63n,One-Time,Application Fee,$45
+5zwl63n,One-Time,Cat Fee,$300
+5zwl63n,One-Time,Dog Fee,$300
+kkp6k28,One-Time,Admin Fee,$200
+kkp6k28,One-Time,Application Fee,$75
+kkp6k28,One-Time,Cat Fee,$150
+kkp6k28,One-Time,Cat Deposit,$150
+b2j0yj8,Recurring,Cat Rent,$15
+b2j0yj8,Recurring,Dog Rent,$15
+b2j0yj8,One-Time,Admin Fee,$200
+b2j0yj8,One-Time,Application Fee,$75
+b2j0yj8,One-Time,Cat Fee,$400
+b2j0yj8,One-Time,Dog Fee,$400
+t0r6qc9,Recurring,Storage Fee,$15
+t0r6qc9,Recurring,Cat Rent,$15
+t0r6qc9,Recurring,Dog Rent,$15
+t0r6qc9,One-Time,Admin Fee,$199
+t0r6qc9,One-Time,Application Fee,$50
+t0r6qc9,One-Time,Cat Fee,$300
+t0r6qc9,One-Time,Dog Fee,$300
+6shwx3v,Recurring,Cat Rent,$20
+6shwx3v,Recurring,Dog Rent,$20
+6shwx3v,One-Time,Admin Fee,$400
+6shwx3v,One-Time,Cat Fee,$500
+6shwx3v,One-Time,Dog Fee,$500
+mb4h34j,Recurring,Cat Rent,$20
+mb4h34j,Recurring,Dog Rent,$20
+mb4h34j,One-Time,Application Fee,$60
+mb4h34j,One-Time,Cat Fee,$275
+mb4h34j,One-Time,Dog Fee,$275
+mb4h34j,Utilities Included,"Water, Electricity, Trash Removal, Sewer, Cable",Included
+l93102g,One-Time,Admin Fee,$100
+l93102g,One-Time,Application Fee,$50
+l93102g,One-Time,Cat Fee,$300
+l93102g,One-Time,Dog Fee,$300
+50x1mpn,Recurring,Cat Rent,$25
+50x1mpn,Recurring,Dog Rent,$25
+50x1mpn,One-Time,Admin Fee,$100
+50x1mpn,One-Time,Application Fee,$50
+50x1mpn,One-Time,Cat Fee,$400
+50x1mpn,One-Time,Dog Fee,$400
+2yv6sj9,Recurring,Storage Fee,$75
+2yv6sj9,One-Time,Admin Fee,$325
+2yv6sj9,One-Time,Application Fee,$85
+wbvjcfk,One-Time,Admin Fee,$100
+wbvjcfk,One-Time,Application Fee,$60
+wbvjcfk,One-Time,Cat Deposit,$300
+wbvjcfk,One-Time,Dog Deposit,$300
+wbvjcfk,Utilities Included,"Water, Trash Removal, Sewer",Included
+htkdz23,Recurring,Cat Rent,$25
+htkdz23,Recurring,Dog Rent,$25
+htkdz23,One-Time,Admin Fee,$100
+htkdz23,One-Time,Application Fee,$50
+htkdz23,One-Time,Cat Fee,$300
+htkdz23,One-Time,Dog Fee,$300
+qj8dx8w,Recurring,Unassigned Garage Parking,$100
+qj8dx8w,One-Time,Admin Fee,$150
+qj8dx8w,One-Time,Application Fee,$65
+qj8dx8w,One-Time,Cat Fee,$350
+qj8dx8w,One-Time,Dog Fee,$350
+qj8dx8w,Utilities Included,"Water, Trash Removal, Sewer",Included
+k68g4m9,Recurring,Cat Rent,$15
+k68g4m9,Recurring,Dog Rent,$15
+k68g4m9,One-Time,Admin Fee,$150
+k68g4m9,One-Time,Application Fee,$75
+k68g4m9,One-Time,Cat Fee,$400
+k68g4m9,One-Time,Dog Fee,$400
+n4n1y7p,Recurring,Cat Rent,$10
+n4n1y7p,Recurring,Dog Rent,$10
+n4n1y7p,One-Time,Admin Fee,$100
+n4n1y7p,One-Time,Application Fee,$75
+n4n1y7p,One-Time,Cat Fee,$150
+n4n1y7p,One-Time,Cat Deposit,$150
+n4n1y7p,One-Time,Dog Fee,$150
+n4n1y7p,One-Time,Dog Deposit,$150
+q9ppv1x,Recurring,Cat Rent,$10
+q9ppv1x,Recurring,Dog Rent,$10
+q9ppv1x,One-Time,Admin Fee,$125
+q9ppv1x,One-Time,Application Fee,$65
+q9ppv1x,One-Time,Cat Fee,$500
+q9ppv1x,One-Time,Cat Deposit,$200
+q9ppv1x,One-Time,Dog Fee,$500
+q9ppv1x,One-Time,Dog Deposit,$200
+q9ppv1x,Utilities Included,"Water, Trash Removal, Sewer",Included
+zewq3gy,Recurring,Cat Rent,$15
+zewq3gy,Recurring,Dog Rent,$15
+zewq3gy,One-Time,Admin Fee,$125
+zewq3gy,One-Time,Application Fee,$125
+zewq3gy,One-Time,Cat Fee,$250
+zewq3gy,One-Time,Cat Deposit,$250
+zewq3gy,One-Time,Dog Fee,$250
+zewq3gy,One-Time,Dog Deposit,$250
+zewq3gy,Utilities Included,"Water, Electricity, Sewer, Cable",Included
+gk8n0hz,One-Time,Admin Fee,$150
+gk8n0hz,One-Time,Application Fee,$75
+gk8n0hz,One-Time,Cat Fee,$500
+gk8n0hz,One-Time,Cat Deposit,$200
+gk8n0hz,One-Time,Dog Fee,$500
+gk8n0hz,One-Time,Dog Deposit,$200
+gk8n0hz,Utilities Included,"Water, Trash Removal, Sewer",Included
+kfsskb8,Recurring,Cat Rent,$15
+kfsskb8,Recurring,Dog Rent,$15
+kfsskb8,One-Time,Admin Fee,$149
+kfsskb8,One-Time,Application Fee,$50
+kfsskb8,One-Time,Cat Fee,$350
+kfsskb8,One-Time,Dog Fee,$350
+kfsskb8,Utilities Included,Cable,Included
+rykhzf1,Recurring,Cat Rent,$10
+rykhzf1,Recurring,Dog Rent,$10
+rykhzf1,One-Time,Admin Fee,$100
+rykhzf1,One-Time,Application Fee,$75
+rykhzf1,One-Time,Cat Fee,$150
+rykhzf1,One-Time,Cat Deposit,$300
+rykhzf1,One-Time,Dog Fee,$150
+rykhzf1,One-Time,Dog Deposit,$300
+sv441k6,Recurring,Storage Fee,$100
+sv441k6,Recurring,Cat Rent,$25
+sv441k6,Recurring,Dog Rent,$25
+sv441k6,One-Time,Admin Fee,$250
+sv441k6,One-Time,Application Fee,$100
+sv441k6,One-Time,Cat Fee,$400
+sv441k6,One-Time,Dog Fee,$500
+tq93b4c,Recurring,Cat Rent,$20
+tq93b4c,Recurring,Dog Rent,$40
+tq93b4c,One-Time,Application Fee,$35
+tq93b4c,One-Time,Cat Fee,$200
+tq93b4c,One-Time,Dog Fee,$200
+tq93b4c,Utilities Included,"Water, Trash Removal, Sewer, Air Conditioning",Included
+2qreyj9,One-Time,Admin Fee,$160
+2qreyj9,One-Time,Application Fee,$50
+pr2t0gs,One-Time,Application Fee,$25
+pr2t0gs,One-Time,Cat Fee,$350
+pr2t0gs,One-Time,Cat Deposit,$200
+pr2t0gs,One-Time,Dog Fee,$350
+pr2t0gs,One-Time,Dog Deposit,$200
+xw3g8vq,One-Time,Admin Fee,$200
+xw3g8vq,One-Time,Application Fee,$50
+xw3g8vq,One-Time,Cat Fee,$300
+xw3g8vq,One-Time,Dog Fee,$300
+p6cr77r,Recurring,Cat Rent,$20
+p6cr77r,Recurring,Dog Rent,$20
+p6cr77r,One-Time,Admin Fee,$150
+p6cr77r,One-Time,Application Fee,$50
+p6cr77r,One-Time,Cat Fee,$250
+p6cr77r,One-Time,Cat Deposit,$250
+p6cr77r,One-Time,Dog Fee,$250
+p6cr77r,One-Time,Dog Deposit,$250
+p6cr77r,Utilities Included,Cable,Included
+9kg7m77,Recurring,Unassigned Garage Parking,$100
+9kg7m77,Recurring,Assigned Other Parking,$50
+9kg7m77,Recurring,Cat Rent,$20
+9kg7m77,Recurring,Dog Rent,$20
+9kg7m77,One-Time,Admin Fee,$249
+9kg7m77,One-Time,Application Fee,$149
+9kg7m77,One-Time,Cat Deposit,$200
+9kg7m77,One-Time,Dog Deposit,$200
+y5qbmqv,One-Time,Admin Fee,$100
+y5qbmqv,One-Time,Application Fee,$50
+y5qbmqv,One-Time,Cat Fee,$200
+y5qbmqv,One-Time,Dog Fee,$200
+y5qbmqv,Utilities Included,"Gas, Water, Electricity, Trash Removal, Sewer, Cable",Included
+l1plqze,One-Time,Admin Fee,$500
+l1plqze,One-Time,Application Fee,$50
+l1plqze,One-Time,Cat Fee,$300
+l1plqze,One-Time,Dog Fee,$300
+l1plqze,Utilities Included,"Water, Trash Removal, Sewer",Included
+pfsrw7t,Recurring,Cat Rent,$20
+pfsrw7t,Recurring,Dog Rent,$20
+pfsrw7t,One-Time,Amenity Fee,$95
+pfsrw7t,One-Time,Admin Fee,$150
+pfsrw7t,One-Time,Application Fee,$75
+pfsrw7t,One-Time,Cat Fee,$250 - 500
+pfsrw7t,One-Time,Cat Deposit,$250
+pfsrw7t,One-Time,Dog Fee,$250 - 500
+pfsrw7t,One-Time,Dog Deposit,$250
+pfsrw7t,One-Time,Other Deposit(s),$250
+bbk2w6c,Recurring,Unassigned Garage Parking,$100
+bbk2w6c,Recurring,Cat Rent,$10
+bbk2w6c,Recurring,Dog Rent,$10
+bbk2w6c,One-Time,Admin Fee,$69
+bbk2w6c,One-Time,Application Fee,$50
+bbk2w6c,One-Time,Cat Fee,$450
+bbk2w6c,One-Time,Dog Fee,$450
+r84pb20,One-Time,Admin Fee,$100
+r84pb20,One-Time,Application Fee,$50
+r84pb20,Utilities Included,"Electricity, Air Conditioning",Included
+jzjmzq7,Recurring,Cat Rent,$15
+jzjmzq7,Recurring,Dog Rent,$15
+jzjmzq7,One-Time,Application Fee,$50
+jzjmzq7,One-Time,Cat Fee,$350
+jzjmzq7,One-Time,Dog Fee,$350
+7272b1w,One-Time,Application Fee,$50
+7272b1w,One-Time,Cat Fee,$400
+7272b1w,One-Time,Dog Fee,$400
+h3jyfr0,Recurring,Storage Fee,$30
+h3jyfr0,One-Time,Admin Fee,$300
+h3jyfr0,One-Time,Application Fee,$100
+hks9xe2,Recurring,Cat Rent,$20
+hks9xe2,Recurring,Dog Rent,$20
+hks9xe2,One-Time,Admin Fee,$200
+hks9xe2,One-Time,Application Fee,$85
+hks9xe2,One-Time,Cat Fee,$400
+hks9xe2,One-Time,Dog Fee,$400
+jktn605,Recurring,Unassigned Garage Parking,$125
+jktn605,Recurring,Cat Rent,$20
+jktn605,Recurring,Dog Rent,$20
+jktn605,One-Time,Admin Fee,$175
+jktn605,One-Time,Application Fee,$85
+jktn605,One-Time,Cat Fee,$200
+jktn605,One-Time,Dog Fee,$200
+gq0n4hx,Recurring,Cat Rent,$25
+gq0n4hx,Recurring,Dog Rent,$25
+gq0n4hx,One-Time,Application Fee,$150
+gq0n4hx,One-Time,Cat Fee,$700
+gq0n4hx,One-Time,Dog Fee,$700
+r8cc4w2,Recurring,Cat Rent,$10
+r8cc4w2,Recurring,Dog Rent,$10
+r8cc4w2,One-Time,Application Fee,$40
+r8cc4w2,One-Time,Cat Fee,$300
+r8cc4w2,One-Time,Dog Fee,$300
+5kkr8jm,One-Time,Admin Fee,$150
+5kkr8jm,One-Time,Application Fee,$50
+tbv6xg9,One-Time,Admin Fee,$150
+tbv6xg9,One-Time,Application Fee,$50
+tq1f6sc,Recurring,Cat Rent,$20
+tq1f6sc,Recurring,Dog Rent,$20
+tq1f6sc,One-Time,Admin Fee,$150
+tq1f6sc,One-Time,Application Fee,$35
+tq1f6sc,One-Time,Cat Fee,$350
+tq1f6sc,One-Time,Dog Fee,$350
+rxd7x70,One-Time,Application Fee,$35
+rxd7x70,Utilities Included,"Water, Trash Removal, Sewer",Included
+06vwf41,One-Time,Admin Fee,$100
+06vwf41,One-Time,Application Fee,$50
+06vwf41,Utilities Included,"Water, Trash Removal",Included
+xt6h65q,Recurring,Storage Fee,$50
+xt6h65q,Recurring,Cat Rent,$10
+xt6h65q,Recurring,Dog Rent,$10
+xt6h65q,One-Time,Admin Fee,$300
+xt6h65q,One-Time,Application Fee,$30
+xt6h65q,One-Time,Cat Fee,$300
+xt6h65q,One-Time,Dog Fee,$300
+z61dq5z,One-Time,Admin Fee,$150
+z61dq5z,One-Time,Application Fee,$75
+ymt2mkr,Recurring,Cat Rent,$30
+ymt2mkr,Recurring,Dog Rent,$30
+ymt2mkr,One-Time,Admin Fee,$50
+ymt2mkr,One-Time,Application Fee,$45
+ymt2mkr,One-Time,Cat Fee,$350
+ymt2mkr,One-Time,Dog Fee,$350
+zqy81my,Recurring,Cat Rent,$30
+zqy81my,Recurring,Dog Rent,$30
+zqy81my,One-Time,Admin Fee,$100
+zqy81my,One-Time,Application Fee,$50
+zqy81my,One-Time,Cat Fee,$300
+zqy81my,One-Time,Dog Fee,$300
+w241djl,One-Time,Admin Fee,$200
+w241djl,One-Time,Application Fee,$50
+4f7p40h,One-Time,Admin Fee,$200
+4f7p40h,One-Time,Application Fee,$100
+d0x1evh,Recurring,Cat Rent,$20
+d0x1evh,Recurring,Dog Rent,$20
+d0x1evh,One-Time,Admin Fee,$100
+d0x1evh,One-Time,Application Fee,$30
+lynxgzf,Recurring,Cat Rent,$25
+lynxgzf,Recurring,Dog Rent,$25
+lynxgzf,One-Time,Admin Fee,$250
+lynxgzf,One-Time,Application Fee,$75
+lynxgzf,One-Time,Cat Fee,$300
+lynxgzf,One-Time,Dog Fee,$300
+nfsg4qq,One-Time,Admin Fee,$150
+nfsg4qq,One-Time,Application Fee,$95
+nfsg4qq,One-Time,Cat Fee,$150
+nfsg4qq,One-Time,Cat Deposit,$150
+nfsg4qq,One-Time,Dog Fee,$150
+nfsg4qq,One-Time,Dog Deposit,$150
+c5gf72e,Recurring,Storage Fee,$35
+c5gf72e,One-Time,Admin Fee,$400
+c5gf72e,One-Time,Application Fee,$80
+x1q32bq,One-Time,Admin Fee,$199
+x1q32bq,One-Time,Application Fee,$50
+hjbkhc0,Recurring,Storage Fee,$50
+hjbkhc0,One-Time,Admin Fee,$250
+hjbkhc0,One-Time,Application Fee,$50
+hjbkhc0,One-Time,Cat Fee,$500
+hjbkhc0,One-Time,Dog Fee,$500
+nxh3gwp,Recurring,Assigned Garage Parking,$75 - 85
+nxh3gwp,One-Time,Admin Fee,$200
+nxh3gwp,One-Time,Application Fee,$80
+ktwpsfb,Recurring,Storage Fee,$50
+ktwpsfb,Recurring,Assigned Garage Parking,$125
+ktwpsfb,Recurring,Cat Rent,$20
+ktwpsfb,Recurring,Dog Rent,$20
+ktwpsfb,One-Time,Admin Fee,$199
+ktwpsfb,One-Time,Application Fee,$60
+csy2bse,Recurring,Storage Fee,$100
+csy2bse,Recurring,Unassigned Garage Parking,$100
+csy2bse,Recurring,Cat Rent,$15
+csy2bse,Recurring,Dog Rent,$15
+csy2bse,One-Time,Admin Fee,$175
+csy2bse,One-Time,Application Fee,$60
+csy2bse,One-Time,Cat Fee,$300
+csy2bse,One-Time,Dog Fee,$300
+1fn4dq4,Recurring,Storage Fee,$25
+1fn4dq4,Recurring,Cat Rent,$20
+1fn4dq4,Recurring,Dog Rent,$20
+1fn4dq4,One-Time,Application Fee,$50
+1fn4dq4,One-Time,Cat Fee,$300
+1fn4dq4,One-Time,Dog Fee,$300
+3xmzgzf,Recurring,Storage Fee,$45
+3xmzgzf,One-Time,Admin Fee,$200
+3xmzgzf,One-Time,Application Fee,$60
+e8ldcxq,Recurring,Unassigned Covered Parking,$20
+e8ldcxq,Recurring,Cat Rent,$25
+e8ldcxq,Recurring,Dog Rent,$25
+e8ldcxq,One-Time,Admin Fee,$250
+e8ldcxq,One-Time,Application Fee,$50
+e8ldcxq,One-Time,Cat Fee,$300
+e8ldcxq,One-Time,Dog Fee,$300
+55lnckn,Recurring,Cat Rent,$25
+55lnckn,Recurring,Dog Rent,$25
+55lnckn,One-Time,Cat Fee,$400
+55lnckn,One-Time,Dog Fee,$400
+5tvm66m,Recurring,Storage Fee,$30
+5tvm66m,One-Time,Admin Fee,$150
+5tvm66m,One-Time,Application Fee,$60
+5tvm66m,One-Time,Cat Fee,$350
+5tvm66m,One-Time,Dog Fee,$350
+tyq7g48,Recurring,Cat Rent,$20
+tyq7g48,Recurring,Dog Rent,$20
+tyq7g48,One-Time,Admin Fee,$150
+tyq7g48,One-Time,Application Fee,$100
+tyq7g48,One-Time,Cat Fee,$300
+tyq7g48,One-Time,Dog Fee,$300
+slxv184,One-Time,Admin Fee,$250
+slxv184,One-Time,Application Fee,$50
+slxv184,One-Time,Cat Fee,$350
+slxv184,One-Time,Dog Fee,$350
+p4sft1v,Recurring,Storage Fee,$50
+p4sft1v,Recurring,Assigned Garage Parking,$125
+p4sft1v,Recurring,Cat Rent,$20
+p4sft1v,Recurring,Dog Rent,$20
+p4sft1v,One-Time,Admin Fee,$150
+p4sft1v,One-Time,Application Fee,$60
+p4sft1v,One-Time,Cat Fee,$300
+p4sft1v,One-Time,Dog Fee,$300
+6bcemrr,Recurring,Cat Rent,$15
+6bcemrr,Recurring,Dog Rent,$15
+6bcemrr,One-Time,Admin Fee,$150
+6bcemrr,One-Time,Application Fee,$50
+6bcemrr,One-Time,Cat Fee,$400
+6bcemrr,One-Time,Dog Fee,$400
+r3wfsw3,One-Time,Application Fee,$50
+58gpd1p,One-Time,Admin Fee,$175
+58gpd1p,One-Time,Application Fee,$75
+r4shjk2,Recurring,Unassigned Other Parking,$125
+r4shjk2,One-Time,Admin Fee,$175
+r4shjk2,One-Time,Application Fee,$100
+h8rl5y3,Recurring,Storage Fee,$20
+h8rl5y3,Recurring,Cat Rent,$5
+h8rl5y3,Recurring,Dog Rent,$5
+h8rl5y3,One-Time,Admin Fee,$200
+h8rl5y3,One-Time,Application Fee,$75
+h8rl5y3,One-Time,Cat Fee,$500
+h8rl5y3,One-Time,Dog Fee,$500
+83rz0s0,Recurring,Cat Rent,$10
+83rz0s0,Recurring,Dog Rent,$10
+83rz0s0,One-Time,Admin Fee,$100
+83rz0s0,One-Time,Application Fee,$50
+83rz0s0,One-Time,Cat Fee,$300
+83rz0s0,One-Time,Dog Fee,$300
+e5j7y8n,Recurring,Cat Rent,$15
+e5j7y8n,Recurring,Dog Rent,$15
+e5j7y8n,One-Time,Admin Fee,$150
+e5j7y8n,One-Time,Application Fee,$50
+e5j7y8n,One-Time,Cat Fee,$300
+e5j7y8n,One-Time,Dog Fee,$300
+bby05g8,Recurring,Storage Fee,$45
+bby05g8,Recurring,Cat Rent,$25
+bby05g8,Recurring,Dog Rent,$25
+bby05g8,One-Time,Admin Fee,$100
+bby05g8,One-Time,Application Fee,$65
+bby05g8,One-Time,Cat Fee,$500
+bby05g8,One-Time,Dog Fee,$500
+vg3k9je,Recurring,Cat Rent,$25
+vg3k9je,Recurring,Dog Rent,$25
+vg3k9je,One-Time,Application Fee,$65
+vg3k9je,One-Time,Cat Fee,$500 - 800
+vg3k9je,One-Time,Dog Fee,$500 - 800
+kcqjxb8,Recurring,Storage Fee,$50
+kcqjxb8,Recurring,Cat Rent,$25
+kcqjxb8,Recurring,Dog Rent,$25
+kcqjxb8,One-Time,Application Fee,$65
+kcqjxb8,One-Time,Cat Fee,$500
+kcqjxb8,One-Time,Dog Fee,$500
+sh0xfb5,Recurring,Storage Fee,$35
+sh0xfb5,Recurring,Cat Rent,$10
+sh0xfb5,Recurring,Dog Rent,$10
+sh0xfb5,One-Time,Admin Fee,$175
+sh0xfb5,One-Time,Application Fee,$75
+sh0xfb5,One-Time,Cat Fee,$500
+sh0xfb5,One-Time,Dog Fee,$500
+z5qfvww,Recurring,Cat Rent,$10
+z5qfvww,Recurring,Dog Rent,$10
+z5qfvww,One-Time,Admin Fee,$150
+z5qfvww,One-Time,Application Fee,$50
+z5qfvww,One-Time,Cat Fee,$500
+z5qfvww,One-Time,Dog Fee,$500
+yl3hbkv,Recurring,Cat Rent,$15
+yl3hbkv,Recurring,Dog Rent,$15
+yl3hbkv,One-Time,Cat Fee,$500
+yl3hbkv,One-Time,Dog Fee,$500
+hnnw0g3,Recurring,Cat Rent,$20
+hnnw0g3,Recurring,Dog Rent,$20
+hnnw0g3,One-Time,Admin Fee,$100
+hnnw0g3,One-Time,Application Fee,$50
+hnnw0g3,One-Time,Cat Fee,$300
+hnnw0g3,One-Time,Dog Fee,$300
+tyslqsc,Recurring,Storage Fee,$25
+tyslqsc,Recurring,Cat Rent,$25
+tyslqsc,Recurring,Dog Rent,$25
+tyslqsc,One-Time,Admin Fee,$200
+tyslqsc,One-Time,Application Fee,$75
+tyslqsc,One-Time,Cat Deposit,$250
+tyslqsc,One-Time,Dog Deposit,$250
+hy4vv62,Recurring,Assigned Garage Parking,$75
+hy4vv62,Recurring,Cat Rent,$25
+hy4vv62,Recurring,Dog Rent,$25
+hy4vv62,One-Time,Admin Fee,$150
+hy4vv62,One-Time,Application Fee,$85
+hy4vv62,One-Time,Cat Fee,$300
+hy4vv62,One-Time,Dog Fee,$300
+bsb8xgc,Recurring,Cat Rent,$25
+bsb8xgc,Recurring,Dog Rent,$25
+bsb8xgc,One-Time,Admin Fee,$150
+bsb8xgc,One-Time,Application Fee,$75
+bsb8xgc,One-Time,Cat Fee,$300
+bsb8xgc,One-Time,Dog Fee,$300
+4rx7dhh,Recurring,Cat Rent,$15
+4rx7dhh,Recurring,Dog Rent,$15
+4rx7dhh,One-Time,Admin Fee,$49
+4rx7dhh,One-Time,Application Fee,$50
+4rx7dhh,One-Time,Cat Fee,$500
+4rx7dhh,One-Time,Dog Fee,$500
+qdyg6bz,One-Time,Admin Fee,$150
+qdyg6bz,One-Time,Application Fee,$65
+qdyg6bz,One-Time,Cat Fee,$350
+qdyg6bz,One-Time,Dog Fee,$350
+p4n10wv,Recurring,Cat Rent,$15
+p4n10wv,Recurring,Dog Rent,$15
+p4n10wv,One-Time,Admin Fee,$125
+p4n10wv,One-Time,Application Fee,$50
+p4n10wv,One-Time,Cat Fee,$400
+p4n10wv,One-Time,Dog Fee,$400
+hxd9283,Recurring,Cat Rent,$15
+hxd9283,Recurring,Dog Rent,$15
+hxd9283,One-Time,Admin Fee,$250
+hxd9283,One-Time,Application Fee,$50
+hxd9283,One-Time,Cat Fee,$300
+hxd9283,One-Time,Dog Fee,$300
+wtt3bxk,Recurring,Storage Fee,$15
+wtt3bxk,Recurring,Cat Rent,$30
+wtt3bxk,Recurring,Dog Rent,$30
+wtt3bxk,One-Time,Admin Fee,$150
+wtt3bxk,One-Time,Application Fee,$75
+wtt3bxk,One-Time,Cat Fee,$300 - 600
+wtt3bxk,One-Time,Dog Fee,$300 - 600
+b8efq2b,One-Time,Admin Fee,$250
+b8efq2b,One-Time,Application Fee,$50
+b8efq2b,One-Time,Cat Fee,$350
+b8efq2b,One-Time,Dog Fee,$350
+4xtkg1l,Recurring,Storage Fee,$100
+4xtkg1l,Recurring,Cat Rent,$15
+4xtkg1l,Recurring,Dog Rent,$15
+4xtkg1l,One-Time,Admin Fee,$200
+4xtkg1l,One-Time,Application Fee,$60
+4xtkg1l,One-Time,Cat Fee,$300
+4xtkg1l,One-Time,Dog Fee,$300
+vqgbd4g,Recurring,Storage Fee,$25
+vqgbd4g,One-Time,Admin Fee,$125
+vqgbd4g,One-Time,Application Fee,$49
+vqgbd4g,One-Time,Cat Fee,$300
+vqgbd4g,One-Time,Dog Fee,$300
+rttpql2,One-Time,Admin Fee,$125
+rttpql2,One-Time,Application Fee,$49
+rttpql2,One-Time,Cat Fee,$300
+rttpql2,One-Time,Dog Fee,$300
+64te25t,Recurring,Cat Rent,$50
+64te25t,Recurring,Dog Rent,$50
+64te25t,One-Time,Admin Fee,$100
+64te25t,One-Time,Application Fee,$50
+64te25t,One-Time,Cat Fee,$25 - 50
+64te25t,One-Time,Dog Fee,$25 - 50
+9krdtk7,One-Time,Admin Fee,$125
+9krdtk7,One-Time,Application Fee,$49
+9krdtk7,One-Time,Cat Fee,$300 - 600
+9krdtk7,One-Time,Cat Deposit,$300
+9krdtk7,One-Time,Dog Fee,$300 - 600
+9krdtk7,One-Time,Dog Deposit,$300
+jy8g547,One-Time,Admin Fee,$125
+jy8g547,One-Time,Application Fee,$49
+jy8g547,One-Time,Cat Fee,$600
+jy8g547,One-Time,Cat Deposit,$200
+jy8g547,One-Time,Dog Fee,$600
+jy8g547,One-Time,Dog Deposit,$200
+jgm42d6,Recurring,Cat Rent,$20
+jgm42d6,Recurring,Dog Rent,$20
+jgm42d6,One-Time,Admin Fee,$175
+jgm42d6,One-Time,Application Fee,$75
+jgm42d6,One-Time,Cat Fee,$600
+jgm42d6,One-Time,Dog Fee,$600
+6yczfks,Recurring,Assigned Garage Parking,$100
+6yczfks,Recurring,Cat Rent,$15
+6yczfks,Recurring,Dog Rent,$15
+6yczfks,One-Time,Admin Fee,$150
+6yczfks,One-Time,Application Fee,$50
+6yczfks,One-Time,Cat Fee,$300 - 500
+6yczfks,One-Time,Dog Fee,$300 - 500
+41vncph,Recurring,Storage Fee,$50
+41vncph,One-Time,Admin Fee,$100
+41vncph,One-Time,Application Fee,$50
+41vncph,One-Time,Cat Fee,$300
+41vncph,One-Time,Dog Fee,$300
+n8fpy0q,One-Time,Admin Fee,$100
+n8fpy0q,One-Time,Application Fee,$50
+n8fpy0q,One-Time,Cat Fee,$300
+n8fpy0q,One-Time,Dog Fee,$300
+7m6pc7x,Recurring,Storage Fee,$50
+7m6pc7x,Recurring,Assigned Garage Parking,$85
+7m6pc7x,One-Time,Admin Fee,$100
+7m6pc7x,One-Time,Application Fee,$419
+7m6pc7x,One-Time,Cat Fee,$400
+7m6pc7x,One-Time,Dog Fee,$400
+ds9nlrh,Recurring,Cat Rent,$30
+ds9nlrh,Recurring,Dog Rent,$30
+ds9nlrh,One-Time,Admin Fee,$50
+ds9nlrh,One-Time,Application Fee,$50
+ds9nlrh,One-Time,Cat Fee,$300 - 500
+ds9nlrh,One-Time,Dog Fee,$300 - 500
+wrgbzpl,Recurring,Storage Fee,$35
+wrgbzpl,Recurring,Unassigned Garage Parking,$120
+wrgbzpl,Recurring,Cat Rent,$25
+wrgbzpl,Recurring,Dog Rent,$25
+wrgbzpl,One-Time,Admin Fee,$150
+wrgbzpl,One-Time,Application Fee,$50
+wrgbzpl,One-Time,Cat Fee,$300
+wrgbzpl,One-Time,Dog Fee,$300
+rndeer2,Recurring,Storage Fee,$15
+rndeer2,Recurring,Unassigned Garage Parking,$100
+rndeer2,Recurring,Cat Rent,$20
+rndeer2,Recurring,Dog Rent,$20
+rndeer2,One-Time,Admin Fee,$160
+rndeer2,One-Time,Application Fee,$75
+rndeer2,One-Time,Cat Fee,$350 - 500
+rndeer2,One-Time,Dog Fee,$350 - 500
+85ekr82,Recurring,Unassigned Garage Parking,$145
+85ekr82,Recurring,Cat Rent,$15
+85ekr82,Recurring,Dog Rent,$15
+85ekr82,One-Time,Admin Fee,$200
+85ekr82,One-Time,Application Fee,$50
+85ekr82,One-Time,Cat Fee,$350
+85ekr82,One-Time,Dog Fee,$350
+kq51rp8,Recurring,Storage Fee,$55
+kq51rp8,Recurring,Assigned Garage Parking,$125
+kq51rp8,One-Time,Admin Fee,$150
+kq51rp8,One-Time,Application Fee,$50
+kq51rp8,Utilities Included,Trash Removal,Included
+4mn7cml,Recurring,Cat Rent,$20
+4mn7cml,Recurring,Dog Rent,$20
+4mn7cml,One-Time,Admin Fee,$150
+4mn7cml,One-Time,Application Fee,$50
+4mn7cml,One-Time,Cat Fee,$300
+4mn7cml,One-Time,Dog Fee,$300
+kxnyhfc,Recurring,Cat Rent,$10
+kxnyhfc,Recurring,Dog Rent,$10
+kxnyhfc,One-Time,Admin Fee,$150
+kxnyhfc,One-Time,Application Fee,$50
+kxnyhfc,One-Time,Cat Fee,$350
+kxnyhfc,One-Time,Dog Fee,$350
+bg168y8,One-Time,Admin Fee,$200
+bg168y8,One-Time,Application Fee,$50
+q5mpgnz,Recurring,Cat Rent,$20
+q5mpgnz,Recurring,Dog Rent,$20
+q5mpgnz,One-Time,Admin Fee,$150
+q5mpgnz,One-Time,Application Fee,$50
+q5mpgnz,One-Time,Cat Fee,$300
+q5mpgnz,One-Time,Dog Fee,$300
+8yfjqc2,Recurring,Assigned Garage Parking,$150
+8yfjqc2,Recurring,Cat Rent,$20
+8yfjqc2,Recurring,Dog Rent,$20
+8yfjqc2,One-Time,Admin Fee,$150
+8yfjqc2,One-Time,Application Fee,$65
+8yfjqc2,One-Time,Cat Fee,$40
+8yfjqc2,One-Time,Dog Fee,$40
+tdjyp88,One-Time,Admin Fee,$50
+tdjyp88,One-Time,Application Fee,$50
+1vlscb4,Recurring,Cat Rent,$10
+1vlscb4,Recurring,Dog Rent,$10
+1vlscb4,One-Time,Admin Fee,$125
+1vlscb4,One-Time,Application Fee,$65
+1vlscb4,One-Time,Cat Fee,$300
+1vlscb4,One-Time,Dog Fee,$300
+83eq490,Recurring,Cat Rent,$20
+83eq490,Recurring,Dog Rent,$20
+83eq490,One-Time,Application Fee,$50
+83eq490,One-Time,Cat Fee,$300
+83eq490,One-Time,Dog Fee,$300
+83eq490,Utilities Included,Trash Removal,Included
+93w70d4,Recurring,Storage Fee,$50
+93w70d4,Recurring,Assigned Surface Lot Parking,$75
+93w70d4,One-Time,Admin Fee,$100
+93w70d4,One-Time,Application Fee,$50
+7k908hz,Recurring,Cat Rent,$10
+7k908hz,Recurring,Dog Rent,$10
+7k908hz,One-Time,Application Fee,$50
+7k908hz,One-Time,Cat Fee,$300
+7k908hz,One-Time,Dog Fee,$300
+r2zkbn3,One-Time,Admin Fee,$150
+r2zkbn3,One-Time,Application Fee,$50
+m8tlg8l,One-Time,Admin Fee,$200
+m8tlg8l,One-Time,Application Fee,$75
+rnnj4h2,Recurring,Storage Fee,$15
+rnnj4h2,Recurring,Unassigned Garage Parking,$100
+rnnj4h2,One-Time,Admin Fee,$199
+rnnj4h2,One-Time,Application Fee,$50
+fp06z2v,Recurring,Storage Fee,$25
+fp06z2v,Recurring,Assigned Garage Parking,$75
+fp06z2v,One-Time,Admin Fee,$200
+fp06z2v,One-Time,Application Fee,$50
+yr12m6t,Recurring,Cat Rent,$10
+yr12m6t,Recurring,Dog Rent,$10
+yr12m6t,One-Time,Admin Fee,$100
+yr12m6t,One-Time,Application Fee,$50
+yr12m6t,One-Time,Cat Fee,$250 - 350
+yr12m6t,One-Time,Dog Fee,$250 - 350
+790x6sw,Recurring,Cat Rent,$15
+790x6sw,Recurring,Dog Rent,$15
+790x6sw,One-Time,Admin Fee,$100
+790x6sw,One-Time,Application Fee,$50
+790x6sw,One-Time,Cat Deposit,$400
+790x6sw,One-Time,Dog Deposit,$400
+790x6sw,Utilities Included,"Water, Trash Removal, Sewer",Included
+pmh0fqs,One-Time,Admin Fee,$160
+pmh0fqs,One-Time,Application Fee,$50
+w5h1gml,One-Time,Admin Fee,$50
+w5h1gml,One-Time,Application Fee,$100
+w5h1gml,One-Time,Cat Fee,$200
+w5h1gml,One-Time,Dog Fee,$200
+r8m5gc3,One-Time,Amenity Fee,$35
+r8m5gc3,One-Time,Admin Fee,$175
+r8m5gc3,One-Time,Application Fee,$50
+01sbg83,One-Time,Admin Fee,$125
+01sbg83,One-Time,Application Fee,$75
+dpxebtl,Recurring,Assigned Garage Parking,$100
+dpxebtl,One-Time,Admin Fee,$325
+dpxebtl,One-Time,Application Fee,$60
+6f3wl2r,Recurring,Storage Fee,$15
+6f3wl2r,Recurring,Cat Rent,$20
+6f3wl2r,Recurring,Dog Rent,$20
+6f3wl2r,One-Time,Admin Fee,$175
+6f3wl2r,One-Time,Application Fee,$85
+6f3wl2r,One-Time,Cat Fee,$300
+6f3wl2r,One-Time,Dog Fee,$300
+xbf540m,One-Time,Admin Fee,$150
+xbf540m,One-Time,Application Fee,$75
+vnlwqhe,Recurring,Cat Rent,$20
+vnlwqhe,Recurring,Dog Rent,$20
+vnlwqhe,One-Time,Admin Fee,$195
+vnlwqhe,One-Time,Application Fee,$50
+vnlwqhe,One-Time,Cat Fee,$300
+vnlwqhe,One-Time,Dog Fee,$300
+p9pqqxs,One-Time,Admin Fee,$150
+p9pqqxs,One-Time,Application Fee,$75
+p9pqqxs,Utilities Included,Cable,Included
+0yyrqk1,Recurring,Dog Rent,$20
+0yyrqk1,One-Time,Admin Fee,$150
+0yyrqk1,One-Time,Application Fee,$50
+0yyrqk1,One-Time,Dog Fee,$300 - 600
+4lngflh,One-Time,Admin Fee,$150
+4lngflh,One-Time,Application Fee,$50
+4lngflh,One-Time,Cat Fee,$250
+4lngflh,One-Time,Dog Fee,$250
+m0fk9jl,One-Time,Admin Fee,$150
+m0fk9jl,One-Time,Application Fee,$50
+78nw3fy,One-Time,Admin Fee,$200
+78nw3fy,One-Time,Application Fee,$90
+4pds1vl,Recurring,Unassigned Garage Parking,$150
+4pds1vl,One-Time,Admin Fee,$200
+4pds1vl,One-Time,Application Fee,$75
+5rtm5xq,One-Time,Admin Fee,$199
+5rtm5xq,One-Time,Application Fee,$50
+5rtm5xq,One-Time,Other,$150
+m1ck03l,Recurring,Cat Rent,$25
+m1ck03l,Recurring,Dog Rent,$25
+m1ck03l,One-Time,Admin Fee,$150
+m1ck03l,One-Time,Application Fee,$75
+z6jgtbz,Recurring,Storage Fee,$85
+z6jgtbz,Recurring,Assigned Garage Parking,$175
+z6jgtbz,Recurring,Cat Rent,$10
+z6jgtbz,Recurring,Dog Rent,$10
+z6jgtbz,One-Time,Admin Fee,$250
+z6jgtbz,One-Time,Application Fee,$70
+z6jgtbz,One-Time,Cat Fee,$400
+z6jgtbz,One-Time,Dog Fee,$400
+ll9twef,Recurring,Unassigned Garage Parking,$150
+ll9twef,Recurring,Cat Rent,$15
+ll9twef,Recurring,Dog Rent,$15
+ll9twef,One-Time,Admin Fee,$250
+ll9twef,One-Time,Application Fee,$50
+ll9twef,One-Time,Cat Deposit,$600
+ll9twef,One-Time,Dog Deposit,$600
+4z4ev9k,Recurring,Unassigned Garage Parking,$175
+4z4ev9k,Recurring,Cat Rent,$30
+4z4ev9k,Recurring,Dog Rent,$30
+4z4ev9k,One-Time,Admin Fee,$200
+4z4ev9k,One-Time,Application Fee,$75
+4z4ev9k,One-Time,Cat Fee,$650
+4z4ev9k,One-Time,Dog Fee,$650
+d0lrjpj,One-Time,Admin Fee,$200
+d0lrjpj,One-Time,Application Fee,$50
+d0lrjpj,One-Time,Cat Fee,$300
+d0lrjpj,One-Time,Cat Deposit,$200
+d0lrjpj,One-Time,Dog Fee,$300
+d0lrjpj,One-Time,Dog Deposit,$200
+2tjdzzb,Recurring,Storage Fee,$25
+2tjdzzb,Recurring,Assigned Garage Parking,$100
+2tjdzzb,Recurring,Cat Rent,$15
+2tjdzzb,Recurring,Dog Rent,$15
+2tjdzzb,One-Time,Admin Fee,$100
+2tjdzzb,One-Time,Application Fee,$50
+2tjdzzb,One-Time,Cat Fee,$200
+2tjdzzb,One-Time,Cat Deposit,$200
+2tjdzzb,One-Time,Dog Fee,$200
+2tjdzzb,One-Time,Dog Deposit,$200
+t89hds8,Recurring,Cat Rent,$10
+t89hds8,Recurring,Dog Rent,$10
+t89hds8,One-Time,Application Fee,$25
+t89hds8,One-Time,Cat Deposit,$200
+t89hds8,One-Time,Dog Deposit,$200
+t89hds8,Utilities Included,"Water, Trash Removal, Sewer",Included
+elrvl0n,Recurring,Assigned Garage Parking,$125
+elrvl0n,Recurring,Cat Rent,$25
+elrvl0n,Recurring,Dog Rent,$25
+elrvl0n,One-Time,Admin Fee,$150
+elrvl0n,One-Time,Application Fee,$75
+elrvl0n,One-Time,Cat Fee,$300
+elrvl0n,One-Time,Dog Fee,$300
+elrvl0n,Utilities Included,Air Conditioning,Included
+9eq5ww5,Recurring,Cat Rent,$25
+9eq5ww5,Recurring,Dog Rent,$25
+9eq5ww5,One-Time,Admin Fee,$150
+9eq5ww5,One-Time,Application Fee,$65
+9eq5ww5,One-Time,Cat Deposit,$400
+9eq5ww5,One-Time,Dog Deposit,$400
+344tqfe,One-Time,Application Fee,$50
+344tqfe,One-Time,Cat Fee,$300
+344tqfe,One-Time,Dog Fee,$300
+344tqfe,Utilities Included,"Trash Removal, Sewer",Included
+5edt0en,Recurring,Cat Rent,$15
+5edt0en,Recurring,Dog Rent,$15
+5edt0en,One-Time,Admin Fee,$50
+5edt0en,One-Time,Application Fee,$50
+5edt0en,One-Time,Cat Fee,$300
+5edt0en,One-Time,Dog Fee,$300
+5edt0en,Utilities Included,Trash Removal,Included
+xx9e37p,One-Time,Application Fee,$50
+xx9e37p,One-Time,Cat Fee,$150
+xx9e37p,One-Time,Dog Fee,$150
+xx9e37p,Utilities Included,"Gas, Water, Electricity, Heat, Trash Removal, Sewer, Air Conditioning",Included
+l1bmrbg,Recurring,Cat Rent,$10
+l1bmrbg,Recurring,Dog Rent,$10
+l1bmrbg,One-Time,Application Fee,$75
+l1bmrbg,One-Time,Cat Fee,$300
+l1bmrbg,One-Time,Dog Fee,$300
+yqtq7dt,Recurring,Cat Rent,$25
+yqtq7dt,Recurring,Dog Rent,$25
+yqtq7dt,One-Time,Admin Fee,$100
+yqtq7dt,One-Time,Application Fee,$50
+yqtq7dt,One-Time,Cat Fee,$400
+yqtq7dt,One-Time,Dog Fee,$400
+qw2ps8y,Recurring,Storage Fee,$25
+qw2ps8y,Recurring,Unassigned Covered Parking,$40 - 60
+qw2ps8y,Recurring,Cat Rent,$25
+qw2ps8y,Recurring,Dog Rent,$25
+qw2ps8y,One-Time,Admin Fee,$150
+qw2ps8y,One-Time,Application Fee,$50
+qw2ps8y,One-Time,Cat Fee,$350
+qw2ps8y,One-Time,Dog Fee,$350
+qw2ps8y,Utilities Included,Air Conditioning,Included
+vp0zy3f,One-Time,Admin Fee,$100
+vp0zy3f,One-Time,Application Fee,$25
+vp0zy3f,One-Time,Cat Fee,$250
+vp0zy3f,One-Time,Dog Fee,$250
+vp0zy3f,Utilities Included,"Water, Heat, Trash Removal, Sewer, Cable, Air Conditioning",Included
+mkc13zh,Recurring,Storage Fee,$30
+mkc13zh,Recurring,Cat Rent,$20
+mkc13zh,Recurring,Dog Rent,$20
+mkc13zh,One-Time,Admin Fee,$100
+mkc13zh,One-Time,Application Fee,$140
+mkc13zh,One-Time,Cat Fee,$350
+mkc13zh,One-Time,Dog Fee,$350
+l160nkg,One-Time,Application Fee,$35
+l160nkg,One-Time,Cat Fee,$300
+l160nkg,One-Time,Dog Fee,$300
+l160nkg,Utilities Included,Trash Removal,Included
+j3yhf24,Recurring,Storage Fee,$65
+j3yhf24,Recurring,Assigned Garage Parking,$100
+j3yhf24,Recurring,Cat Rent,$10
+j3yhf24,Recurring,Dog Rent,$10
+j3yhf24,One-Time,Admin Fee,$150
+j3yhf24,One-Time,Application Fee,$40
+j3yhf24,One-Time,Cat Fee,$300
+j3yhf24,One-Time,Dog Fee,$300
+j3yhf24,Utilities Included,Trash Removal,Included
+hwfvdl0,Recurring,Cat Rent,$10
+hwfvdl0,Recurring,Dog Rent,$10
+hwfvdl0,One-Time,Admin Fee,$150
+hwfvdl0,One-Time,Application Fee,$40
+hwfvdl0,One-Time,Cat Fee,$600
+hwfvdl0,One-Time,Dog Fee,$600
+hwfvdl0,Utilities Included,Trash Removal,Included
+vk1k1be,One-Time,Admin Fee,$75
+vk1k1be,One-Time,Application Fee,$50
+vk1k1be,One-Time,Cat Fee,$500
+vk1k1be,One-Time,Dog Fee,$500
+vk1k1be,Utilities Included,Trash Removal,Included
+plkghrt,Recurring,Storage Fee,$45
+plkghrt,Recurring,Assigned Garage Parking,$80
+plkghrt,Recurring,Cat Rent,$10
+plkghrt,Recurring,Dog Rent,$10
+plkghrt,One-Time,Admin Fee,$100
+plkghrt,One-Time,Application Fee,$50
+plkghrt,One-Time,Cat Fee,$400
+plkghrt,One-Time,Dog Fee,$400
+plkghrt,Utilities Included,"Trash Removal, Sewer",Included
+mjtbj2k,Recurring,Assigned Garage Parking,$150 - 175
+mjtbj2k,Recurring,Cat Rent,$20
+mjtbj2k,Recurring,Dog Rent,$20
+mjtbj2k,One-Time,Admin Fee,$200
+mjtbj2k,One-Time,Application Fee,$50
+mjtbj2k,One-Time,Cat Fee,$350
+mjtbj2k,One-Time,Dog Fee,$350
+mjtbj2k,Utilities Included,Trash Removal,Included
+qk4vvzx,Recurring,Cat Rent,$25
+qk4vvzx,Recurring,Dog Rent,$25
+qk4vvzx,One-Time,Admin Fee,$100
+qk4vvzx,One-Time,Application Fee,$50
+qk4vvzx,One-Time,Cat Fee,$350
+qk4vvzx,One-Time,Dog Fee,$350
+qk4vvzx,Utilities Included,"Water, Trash Removal, Sewer",Included
+cxkq5de,Recurring,Storage Fee,$35
+cxkq5de,Recurring,Unassigned Garage Parking,$100
+cxkq5de,One-Time,Admin Fee,$200
+cxkq5de,One-Time,Application Fee,$75
+2pp6qbb,Recurring,Storage Fee,$10
+2pp6qbb,One-Time,Admin Fee,$225
+2pp6qbb,One-Time,Application Fee,$125
+95ftjt5,Recurring,Cat Rent,$20
+95ftjt5,Recurring,Dog Rent,$20
+95ftjt5,One-Time,Admin Fee,$200
+95ftjt5,One-Time,Application Fee,$50
+95ftjt5,One-Time,Cat Fee,$300
+95ftjt5,One-Time,Dog Fee,$300
+95ftjt5,Utilities Included,Water,Included
+8n6syd3,Recurring,Cat Rent,$20
+8n6syd3,Recurring,Dog Rent,$20
+8n6syd3,One-Time,Admin Fee,$150
+8n6syd3,One-Time,Application Fee,$50
+8n6syd3,One-Time,Cat Fee,$350
+8n6syd3,One-Time,Dog Fee,$350
+t54xfzb,Recurring,Assigned Garage Parking,$100
+t54xfzb,Recurring,Cat Rent,$10
+t54xfzb,Recurring,Dog Rent,$10
+t54xfzb,One-Time,Admin Fee,$150
+t54xfzb,One-Time,Application Fee,$75
+t54xfzb,One-Time,Cat Fee,$150
+t54xfzb,One-Time,Cat Deposit,$150
+t54xfzb,One-Time,Dog Fee,$150
+t54xfzb,One-Time,Dog Deposit,$150
+t54xfzb,Utilities Included,Trash Removal,Included
+52dnxnm,Recurring,Cat Rent,$300
+52dnxnm,Recurring,Dog Rent,$300
+52dnxnm,One-Time,Admin Fee,$100
+52dnxnm,One-Time,Application Fee,$50
+52dnxnm,One-Time,Cat Fee,$20
+52dnxnm,One-Time,Dog Fee,$20
+52dnxnm,Utilities Included,"Water, Trash Removal, Sewer",Included
+g07700x,Recurring,Assigned Garage Parking,$95
+g07700x,Recurring,Cat Rent,$10
+g07700x,Recurring,Dog Rent,$10
+g07700x,One-Time,Admin Fee,$100
+g07700x,One-Time,Application Fee,$55
+g07700x,One-Time,Cat Fee,$250
+g07700x,One-Time,Dog Fee,$250
+wek49wl,One-Time,Application Fee,$30
+wek49wl,Utilities Included,Trash Removal,Included
+w4g97bl,Recurring,Cat Rent,$15
+w4g97bl,Recurring,Dog Rent,$25
+w4g97bl,One-Time,Admin Fee,$150
+w4g97bl,One-Time,Application Fee,$40
+w4g97bl,One-Time,Cat Fee,$150
+w4g97bl,One-Time,Dog Fee,$300
+w4g97bl,Utilities Included,Trash Removal,Included
+vt0ejtg,Recurring,Cat Rent,$10
+vt0ejtg,Recurring,Dog Rent,$10
+vt0ejtg,One-Time,Application Fee,$35
+vt0ejtg,One-Time,Cat Fee,$250
+vt0ejtg,One-Time,Dog Fee,$250
+vt0ejtg,Utilities Included,Water,Included
+cm4nqkf,One-Time,Application Fee,$30
+cm4nqkf,One-Time,Cat Fee,$300
+cm4nqkf,One-Time,Dog Fee,$300
+cm4nqkf,Utilities Included,"Water, Trash Removal, Sewer",Included
+yqp921s,One-Time,Application Fee,$19
+91hhw97,One-Time,Application Fee,$19
+91hhw97,Utilities Included,Trash Removal,Included
